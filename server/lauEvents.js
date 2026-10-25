@@ -242,16 +242,92 @@ export function parseLauFeed(text) {
 
 export const isByblos = (e) => e.campuses.includes("Byblos");
 
-export async function fetchLauFeed({ timeoutMs = 15000 } = {}) {
+/* ---------------- full calendar: list page + detail pages ----------------
+   The /rss/ widget only carries the nearest handful of events. The calendar's own list page
+   (LAU_LIST_URL) names EVERY upcoming event (id, title, categories, location — but no usable
+   date: it prints day+month only, no year, no time), and each event's detail page prints the
+   full "October 30, 2026 9:00 AM–5:30 PM" line. So: list for coverage, details for dates. */
+export const LAU_LIST_URL = "https://eventscal.lau.edu.lb/";
+const lauEventUrl = (id) => `https://eventscal.lau.edu.lb/event.php?evt=${encodeURIComponent(id)}`;
+
+export function parseLauList(html) {
+  const out = [];
+  for (const m of String(html ?? "").matchAll(/<div class="event_item">([\s\S]*?)<\/div>/gi)) {
+    const block = m[1];
+    const a = /href="([^"]*evt=[^"]*)"[^>]*>([\s\S]*?)<\/a>/i.exec(block);
+    if (!a) continue;
+    const id = evtId(a[1]);
+    if (!id) continue;
+    const categories = [...block.matchAll(/<span class="event_cat[^"]*"[^>]*>([\s\S]*?)<\/span>/gi)]
+      .flatMap((c) => textOf(c[1]).split("|"))
+      .map((c) => c.trim())
+      .filter(Boolean);
+    const loc = /<span class="event_loc"[^>]*>([\s\S]*?)<\/span>/i.exec(block);
+    out.push({ id, title: textOf(a[2]), categories, location: loc ? textOf(loc[1]) : "" });
+  }
+  return out;
+}
+
+export function parseLauDetail(html, url) {
+  const body = String(html ?? "");
+  const scope = /<article\b[^>]*>([\s\S]*?)<\/article>/i.exec(body)?.[1] ?? body;
+  const title = textOf(/<h1\b[^>]*>([\s\S]*?)<\/h1>/i.exec(scope)?.[1] ?? "");
+  const timeText = textOf(/<time\b[^>]*>([\s\S]*?)<\/time>/i.exec(scope)?.[1] ?? "");
+  const when = (timeText && parseWhen(timeText)) || parseWhen(toLines(scope).join("\n"));
+  if (!title || !when) return null;
+  const loc = textOf(/<[^>]+class="event_location"[^>]*>([\s\S]*?)<\/[^>]+>/i.exec(scope)?.[1] ?? "");
+  const location = loc || when.rest.split("\n").map((l) => l.trim()).filter(Boolean).join(" · ");
+  return { title, link: url, when, location, categories: [] };
+}
+
+const FEED_HEADERS = { Accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36", "Accept-Language": "en-US,en;q=0.9" };
+
+async function fetchText(url, timeoutMs) {
   let res;
   try {
-    res = await fetchImpl(LAU_FEED_URL, {
-      headers: { Accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8", "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36", "Accept-Language": "en-US,en;q=0.9" },
-      signal: AbortSignal.timeout(timeoutMs),
-    });
+    res = await fetchImpl(url, { headers: FEED_HEADERS, signal: AbortSignal.timeout(timeoutMs) });
   } catch (e) {
     throw new LauFeedError(`eventscal.lau.edu.lb did not answer (${e?.name === "TimeoutError" ? "timeout" : (e?.message ?? e)})`);
   }
   if (!res.ok) throw new LauFeedError(`eventscal.lau.edu.lb answered HTTP ${res.status}`);
-  return parseLauFeed(await res.text());
+  return res.text();
+}
+
+export async function fetchLauFeed({ timeoutMs = 15000 } = {}) {
+  const base = parseLauFeed(await fetchText(LAU_FEED_URL, timeoutMs));
+  let events = base.events;
+  let skipped = base.skipped;
+  try {
+    const list = parseLauList(await fetchText(LAU_LIST_URL, timeoutMs));
+    const have = new Set(events.map((e) => e.id).filter(Boolean));
+    const missing = list.filter((x) => !have.has(x.id));
+    const raws = [];
+    for (let i = 0; i < missing.length; i += 4) {
+      const settled = await Promise.allSettled(
+        missing.slice(i, i + 4).map(async (item) => {
+          const url = lauEventUrl(item.id);
+          const d = parseLauDetail(await fetchText(url, timeoutMs), url);
+          if (!d) return null;
+          return { ...d, title: d.title || item.title, location: d.location || item.location, categories: item.categories.length ? item.categories : d.categories };
+        })
+      );
+      for (const s of settled) {
+        if (s.status === "fulfilled" && s.value) raws.push(s.value);
+        else skipped++;
+      }
+    }
+    const extra = raws.map(toEvent).filter(Boolean);
+    skipped += raws.length - extra.length;
+    if (extra.length) {
+      const byKey = new Map(events.map((e) => [e.id ?? e.url ?? `${e.title}|${e.start}`, e]));
+      for (const e of extra) {
+        const k = e.id ?? e.url ?? `${e.title}|${e.start}`;
+        if (!byKey.has(k)) byKey.set(k, e);
+      }
+      events = [...byKey.values()].sort((a, b) => a.start.localeCompare(b.start) || a.title.localeCompare(b.title));
+    }
+  } catch {
+    /* coverage enrichment is best-effort: the widget events above still ship */
+  }
+  return { events, skipped };
 }

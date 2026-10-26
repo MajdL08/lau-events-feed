@@ -1,0 +1,85 @@
+{
+  "source": "hospitality-byblos",
+  "kind": "cafeteria-menu",
+  "title": "57 Plat Du Jour — LAU Byblos Cafeteria",
+  "fetchedAt": "2026-10-26T13:19:51+00:00",
+  "weekOf": "2026-10-26",
+  "currency": "LBP",
+  "hours": {
+    "main": "Mon–Fri 7:30 AM–7:00 PM",
+    "cyber": "Mon–Fri 7:30 AM–5:00 PM",
+    "deliveryExt": "2145"
+  },
+  "days": [
+    {
+      "date": "2026-10-26",
+      "weekday": "Monday",
+      "dishes": [
+        {
+          "name": "Chicken Pesto Gnocchi",
+          "price": 680000
+        },
+        {
+          "name": "Red Beans, Meat & Rice",
+          "price": 770000
+        }
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "weekday": "Tuesday",
+      "dishes": [
+        {
+          "name": "Chicken Freekeh",
+          "price": 680000
+        },
+        {
+          "name": "Beef Fajitas",
+          "price": 770000
+        }
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "weekday": "Wednesday",
+      "dishes": [
+        {
+          "name": "Chicken Kiev, French Fries & Coleslaw",
+          "price": 680000
+        },
+        {
+          "name": "Beef Potatoes & Rice",
+          "price": 770000
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "weekday": "Thursday",
+      "dishes": [
+        {
+          "name": "Grilled Chicken With Gypsy Sauce, Potatoes & Veggies",
+          "price": 680000
+        },
+        {
+          "name": "Beef Tandoori",
+          "price": 770000
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "weekday": "Friday",
+      "dishes": [
+        {
+          "name": "Kibbeh Arnabiyyeh",
+          "price": 770000
+        },
+        {
+          "name": "Moudardara",
+          "price": 590000
+        }
+      ]
+    }
+  ]
+}

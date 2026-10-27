@@ -1,0 +1,143 @@
+{
+  "source": "lau-mail-robot",
+  "version": 1,
+  "generatedAt": "2026-10-27T07:30:04+02:00",
+  "items": [
+    {
+      "kind": "event",
+      "org": "School of Engineering",
+      "title": "Think It. Build It. Launch It. – Join Us on October 28!",
+      "date": "2026-10-28",
+      "expires": "2026-10-29",
+      "mailDate": "2026-10-26",
+      "blurb": "The School of Engineering's entrepreneurship showcase — think it, build it, launch it.",
+      "id": "n6a21cfd5da"
+    },
+    {
+      "kind": "event",
+      "org": "School of Engineering",
+      "title": "[LAU IEEE Robotics] Introduction to Arduino Workshop",
+      "date": "2026-10-29",
+      "expires": "2026-10-30",
+      "mailDate": "2026-10-23",
+      "time": "5:00–6:00 PM",
+      "place": "Zakhem 406",
+      "link": {
+        "label": "Register",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfqLJiEia5fQKG1XwKX2XP5YWbDoS-4iixH3KCfuH0zerhK_Q/viewform?usp=publish-editor"
+      },
+      "blurb": "IEEE Robotics hands-on Arduino workshop. Bring your laptop with Arduino IDE installed — kits and sensors are provided.",
+      "id": "nf8f472bd44"
+    },
+    {
+      "kind": "deadline",
+      "org": "LAU OLE",
+      "title": "Registration Still Open | 10th LAU Case Competition",
+      "date": "2026-11-06",
+      "expires": "2026-11-07",
+      "mailDate": "2026-10-26",
+      "link": {
+        "label": "Register",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfU-cCcrtpZVTnZrpytB5xDfyGNPQ0yYxHiXJkXtub2diA2pA/viewform?usp=sharing&ouid=111354043133556561310"
+      },
+      "blurb": "Teams of 3–4 students, all majors — take on real business challenges and compete for a $1,000 cash prize.",
+      "id": "nebdbbaa37b"
+    },
+    {
+      "kind": "deadline",
+      "org": "Registrar Office",
+      "title": "Deadline for Withdrawals (WP/WF) – Fall 2026",
+      "date": "2026-11-09",
+      "expires": "2026-11-10",
+      "mailDate": "2026-10-23",
+      "link": {
+        "label": "Open the Portal",
+        "url": "https://myportal.lau.edu.lb/"
+      },
+      "blurb": "Last day to withdraw (WP/WF) from Fall 2026 courses — the deadline is midnight.",
+      "id": "nacf9f9d696"
+    },
+    {
+      "kind": "event",
+      "org": "Athletics Office",
+      "title": "Join LAU at the Spinneys Beirut Marathon 2026!",
+      "date": "2026-11-29",
+      "expires": "2026-11-30",
+      "mailDate": "2026-10-23",
+      "blurb": "Run or volunteer with LAU — this year LAU runs for Liver Health. The first 100 to register for the 6K Fun Run are fully covered.",
+      "details": "Registration booths: Oct 26 – Nov 5, Mon–Thu, 12:00–2:00 PM · Beirut: Upper Gate · Byblos: in front of Architecture Hall",
+      "id": "n176f425f73"
+    },
+    {
+      "kind": "tutoring",
+      "org": "LAU Tutoring Services",
+      "title": "MTH201 Tutoring — free of charge",
+      "course": "MTH201",
+      "sessions": [
+        {
+          "days": "Tuesday",
+          "time": "5:00–6:00 PM",
+          "place": "Frem406",
+          "sections": "40 · 41 · 38"
+        },
+        {
+          "days": "Wednesday",
+          "time": "4:00–5:00 PM",
+          "place": "Science405",
+          "sections": "34 · 36 · 33 · 39"
+        },
+        {
+          "days": "Wednesday",
+          "time": "5:00–6:00 PM",
+          "place": "Frem404",
+          "sections": "32 · 35 · 37"
+        }
+      ],
+      "blurb": "Free tutoring for MTH201 — offered all semester. Attend any session that fits your schedule.",
+      "expires": "2026-12-05",
+      "mailDate": "2026-10-23",
+      "alert": "Monday’s session canceled — this week only.",
+      "alertUntil": "2026-11-02",
+      "id": "n131f6f4519"
+    },
+    {
+      "kind": "tutoring",
+      "org": "LAU Tutoring Services",
+      "title": "GNE212 Tutoring — free of charge",
+      "course": "GNE212",
+      "sessions": [
+        {
+          "days": "Monday",
+          "time": "4:00–5:00 PM",
+          "place": "Frem103G"
+        }
+      ],
+      "blurb": "Free tutoring for Engineering Mechanics — offered all semester. Attend any session that fits your schedule.",
+      "expires": "2026-12-05",
+      "mailDate": "2026-10-23",
+      "id": "n8a4ad74e7a"
+    },
+    {
+      "kind": "tutoring",
+      "org": "LAU Tutoring Services",
+      "title": "COE212 Tutoring — free of charge",
+      "course": "COE212",
+      "sessions": [
+        {
+          "days": "Wednesday",
+          "time": "4:00–6:00 PM",
+          "place": "Zakhem 504"
+        },
+        {
+          "days": "Thursday",
+          "time": "5:00–6:00 PM",
+          "place": "Zakhem 505"
+        }
+      ],
+      "blurb": "Free tutoring for COE212 — offered all semester. Attend any session that fits your schedule.",
+      "expires": "2026-12-05",
+      "mailDate": "2026-10-20",
+      "id": "n516ac7a785"
+    }
+  ]
+}

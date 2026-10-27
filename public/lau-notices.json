@@ -1,7 +1,7 @@
 {
   "source": "lau-mail-robot",
   "version": 1,
-  "generatedAt": "2026-10-27T07:46:30+02:00",
+  "generatedAt": "2026-10-27T08:01:02+02:00",
   "items": [
     {
       "kind": "event",
@@ -11,7 +11,24 @@
       "expires": "2026-10-29",
       "mailDate": "2026-10-26",
       "blurb": "The School of Engineering's entrepreneurship showcase — think it, build it, launch it.",
+      "body": "Kind Reminder!",
       "id": "n6a21cfd5da"
+    },
+    {
+      "kind": "event",
+      "org": "Dean of Students",
+      "title": "New Date: Coffee with the Dean with President Abdallah",
+      "date": "2026-10-28",
+      "expires": "2026-10-29",
+      "mailDate": "2026-10-26",
+      "time": "12:00–1:00 PM",
+      "place": "Medical Area",
+      "link": {
+        "label": "Register",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfkAHS51wxj0XaNwN0KqGw20Wg1cZ2NiOB4c5SHjjE8L-fOnA/viewform"
+      },
+      "body": "Kind reminder!\n\nDear Students,\n\nPlease note that our upcoming Coffee with the Dean with President Chaouki Abdallah, originally scheduled for October 14, has been postponed to:\n\nDate: Wednesday, October 28, 2026\n\nLocation: Medical Area\n\nTime: 12:00 to 1:00 PM",
+      "id": "n5f431111c9"
     },
     {
       "kind": "event",
@@ -27,7 +44,19 @@
         "url": "https://docs.google.com/forms/d/e/1FAIpQLSfqLJiEia5fQKG1XwKX2XP5YWbDoS-4iixH3KCfuH0zerhK_Q/viewform?usp=publish-editor"
       },
       "blurb": "IEEE Robotics hands-on Arduino workshop. Bring your laptop with Arduino IDE installed — kits and sensors are provided.",
+      "body": "Dear ladies and gents,\n\nThe IEEE Robotics Club, supported by the School of Engineering, will host an exciting hands-on Arduino Workshop where you’ll learn the basics of Arduino, build circuits, write and upload code,\n and participate in fun interactive challenges!\n\nDate: Thursday, October 29\n\nTime: 5:00 – 6:00 PM\n\nLocation: Zakhem 406\n\nPlease make sure to bring with you:\n\n- Your laptop\n- Arduino IDE installed on your laptop\n\nArduino kits and sensors will be provided by the club!\n\nDownload Arduino IDE:\n\nPlease register\nhere.\n\nThis is an introductory workshop (the first in a series). No prior experience needed!",
       "id": "nf8f472bd44"
+    },
+    {
+      "kind": "event",
+      "org": "Department of Economics",
+      "title": "Invitation to the launch of MARSAD-Research Observatory on Socioeconomic Disparities in the Arab Mashreq",
+      "date": "2026-10-30",
+      "expires": "2026-10-31",
+      "mailDate": "2026-10-20",
+      "time": "9:00 AM–5:30 PM",
+      "body": "Dear Students,\n\nThe Department of Economics at the Lebanese American University is pleased to invite you to the launch of\nMARSAD , a data-driven research observatory focused on socioeconomic\n disparities in the Arab Mashreq. The launch event will take place on Friday, October 30, 2026, from 9:00 a.m. to 5:30 p.m. in AKSOB 903, LAU Beirut Campus,\nand will also be streamed online via Webex .\n\nThe event will bring together distinguished scholars, researchers, and experts to discuss key socioeconomic challenges in the Arab Mashreq. The program will feature keynote\n addresses by internationally recognized economists Dr. Ragui Assaad, Professor and Freeman Chair for International Economic Policy at the University of Minnesota, and\nDr. Francisco Ferreira, Amartya Sen Professor of Inequality Studies at the London School of Economics, alongside three thematic panels focusing on\npoverty, inequality, and economic development\nin the Arab Mashreq.\n\nWe would be honored to have you join us for this important event.\nKindly confirm your attendance by completing this  form.\n\nPlease find the preliminary program agenda below:\n\n- Agenda\n MARSAD \\- Launch Event \\- English version.pdf\n\n- Agenda\n MARSAD \\- Launch Event \\- Arabic version.pdf\n\nWe look forward to your participation.\n\nAll the best,\n\nJamal Ibrahim Haidar\n\nAssistant Professor of Economics, LAU\n\nChairperson, Department of Economics, LAU",
+      "id": "n202e109c20"
     },
     {
       "kind": "deadline",
@@ -41,6 +70,7 @@
         "url": "https://docs.google.com/forms/d/e/1FAIpQLSfU-cCcrtpZVTnZrpytB5xDfyGNPQ0yYxHiXJkXtub2diA2pA/viewform?usp=sharing&ouid=111354043133556561310"
       },
       "blurb": "Teams of 3–4 students, all majors — take on real business challenges and compete for a $1,000 cash prize.",
+      "body": "Dear Students,\n\nThe challenge is on, and\nregistration for the 10th LAU Case Competition is still open!\n\nReady to turn your ideas into winning solutions? Gather your team, take on real business challenges, connect with industry professionals, and compete for a\n$1,000 cash prize.\n\nDon't miss your chance to be part of it!\n\n-\n Registration Deadline: Friday, November 6, 2026\n-\n Team Size: 3–4 students\n-\n Eligibility: Undergraduate and graduate students from all majors\n\nREGISTER YOUR TEAM:\n Click here\n\nFor updates and more information:\n@laucasecompetition\n\nWe look forward to seeing you rise to the challenge!",
       "id": "nebdbbaa37b"
     },
     {
@@ -55,6 +85,7 @@
         "url": "https://myportal.lau.edu.lb/"
       },
       "blurb": "Last day to withdraw (WP/WF) from Fall 2026 courses — the deadline is midnight.",
+      "body": "A Kind Reminder\n\nDear Students,\n\nThe deadline to withdraw (WP/WF) from Fall 2026 courses is\nNovember 09, midnight.\n\n*The academic advisors at the Dean of Students office can help you identify the courses to withdraw from in order to maintain a good academic standing. You can get in touch with them by clicking on\n\nthis link.*\n\n* *\n\nYou can submit a n\nonline Withdrawal (WP/WF) form for any of your Fall 2026 courses by following the process below:\n\n1. Login using your LAU credentials to the\n Portal\n and navigate to “My Courses” > ”Registrar’s Office Forms”\n2.\n Under “New Request” select “Forms” then ”Withdrawal Form (WP/WF)”\n\n3.\n Fill in the required fields\n4.\n Submit the form. The form will then be directed to your instructor who will take the appropriate action\n5.\n You will receive an automatic notification once the Registrar’s Office process es the form\n6.\n You can check your schedule through Banner to confirm that your withdrawal request was processed successfully.\n\nNote:   If you have any difficulty submitting the online WP/WF form, please\n contact Ms. Lynn El-Radi:\nlynn.el\\-radi@lau.edu.lb\n/ Ext. 1395\n(Beirut Campus)\nor Mr. Boulos Sakr: boulos.sakr@lau.edu.lb / Ext. 2846 (Byblos Campus).\n\n*This is a no-reply email. For inquiries, please contact\nregistrar.beirut.registration@lau.edu.lb or\nregistrar.byblos.registration@lau.edu.lb*\n\nThe Registrar’s Office",
       "id": "nacf9f9d696"
     },
     {
@@ -66,7 +97,47 @@
       "mailDate": "2026-10-23",
       "blurb": "Run or volunteer with LAU — this year LAU runs for Liver Health. The first 100 to register for the 6K Fun Run are fully covered.",
       "details": "Registration booths: Oct 26 – Nov 5, Mon–Thu, 12:00–2:00 PM · Beirut: Upper Gate · Byblos: in front of Architecture Hall",
+      "body": "Dear Students,\n\nWe are pleased to invite you to join LAU at the upcoming Spinneys Beirut Marathon 2026, taking place on\nSunday, November 29, whether you would like to participate as a\nrunner or support the event as a\nvolunteer.\n\nThis year, LAU is proudly running for Liver Health.\n\nSpecial Offer – Register Early!\n\nLAU will fully cover the registration fees for the first 100 participants to register for the 6K Fun Fund Run! Don't miss this opportunity to be part of this exciting event at no cost.\n\nVisit Our Campus Registration Booths:\n\n- Beirut Campus: Upper Gate\n- Byblos Campus: In front of Architecture Hall\n\nDates: October 26 – November 5 (Monday to Thursday)\n\nTime: 12:00 PM – 2:00 PM\n\nIf you have any questions or need assistance with your registration, please visit our booths to inquire/register for:\n\n- 6K Fund Run\n- Competitive Races (10K, 21K, and 42K)\n- Volunteers (Open to Students, Faculty, and Staff)\n\nWe will be available daily from Monday through Thursday, from 12:00 PM to 2:00 PM.\n\nWe look forward to seeing you represent LAU at the Beirut Marathon.\n\n| Athletics Office, Beirut & Byblos Campus Office: +961 1 786456 ext. 2177 |\n\n| | Beirut \\| Byblos \\| New York |",
       "id": "n176f425f73"
+    },
+    {
+      "kind": "notice",
+      "org": "Student Activities",
+      "title": "Upcoming Activities (Byblos)",
+      "body": "Updated upcoming activities.\n\nFor more details about each activity, check out the Events Calendar\nHere .",
+      "expires": "2026-11-12",
+      "mailDate": "2026-10-22",
+      "link": {
+        "label": "More details",
+        "url": "https://eventscal.lau.edu.lb/students/"
+      },
+      "id": "n242abb701f"
+    },
+    {
+      "kind": "notice",
+      "org": "LAU Libraries",
+      "title": "Library Monthly spotlight: LAU's Poster collection",
+      "body": "Dear LAU Community,\n\nThe LAU Libraries is home to some amazing resources! In our October spotlight, we will bring some of these resources straight to your inbox.\n\n This month's spotlight resource is....\n\nWhat?  LAU's Poster collection\n\nWho can benefit?  Anyone who is interested in graphic design, the history of theater at LAU, or is just looking for\n a bit of LAU nostalgia.\n\nHow to access?\n\n-\n LAU:\n School of Arts & Sciences. Dept. of Communication Arts:\\(Major Productions\\) — 65 posters documenting major theatrical and musical productions.\n-\n LAU.\n School of Arts & Sciences. Dept. of Communication Arts:(Student\n Productions\\) — 314 posters showcasing the creativity and artistic achievements of LAU students.\n-\n LAU\n Poster Collection \\(donated by Rami Al Khal\\) — 56 historical posters documenting activities associated with BUC, BCW, and LAU.\n\nHungry for more?  V isit the\nLAU Libraries Archives & Special Collections  page\n to explore these collections and discover the stories preserved through these remarkable posters.\n\nLAU Libraries\n\nCollection Management Division",
+      "expires": "2026-11-12",
+      "mailDate": "2026-10-22",
+      "link": {
+        "label": "More details",
+        "url": "https://libraries.lau.edu.lb/research/collections/"
+      },
+      "id": "n6ff6f61de8"
+    },
+    {
+      "kind": "notice",
+      "org": "School of Arts & Sciences",
+      "title": "Z for Zombie",
+      "body": "Reminder…\n\nOffice of the Dean\n\nSchool of Arts & Sciences\n\nOffice:  +961 1 786456 ext. 1105/2333\n\nBeirut   |   Byblos   |   New\n York\n\nf\n\nin\n\nx\n\nig",
+      "expires": "2026-11-12",
+      "mailDate": "2026-10-22",
+      "link": {
+        "label": "More details",
+        "url": "http://sas.lau.edu.lb/?utm_source=lau_email&utm_medium=email&utm_campaign=EmailSig2018"
+      },
+      "id": "n872aafab78"
     }
   ]
 }

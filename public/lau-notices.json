@@ -1,7 +1,7 @@
 {
   "source": "lau-mail-robot",
   "version": 1,
-  "generatedAt": "2026-10-27T07:30:04+02:00",
+  "generatedAt": "2026-10-27T07:46:30+02:00",
   "items": [
     {
       "kind": "event",
@@ -67,77 +67,6 @@
       "blurb": "Run or volunteer with LAU — this year LAU runs for Liver Health. The first 100 to register for the 6K Fun Run are fully covered.",
       "details": "Registration booths: Oct 26 – Nov 5, Mon–Thu, 12:00–2:00 PM · Beirut: Upper Gate · Byblos: in front of Architecture Hall",
       "id": "n176f425f73"
-    },
-    {
-      "kind": "tutoring",
-      "org": "LAU Tutoring Services",
-      "title": "MTH201 Tutoring — free of charge",
-      "course": "MTH201",
-      "sessions": [
-        {
-          "days": "Tuesday",
-          "time": "5:00–6:00 PM",
-          "place": "Frem406",
-          "sections": "40 · 41 · 38"
-        },
-        {
-          "days": "Wednesday",
-          "time": "4:00–5:00 PM",
-          "place": "Science405",
-          "sections": "34 · 36 · 33 · 39"
-        },
-        {
-          "days": "Wednesday",
-          "time": "5:00–6:00 PM",
-          "place": "Frem404",
-          "sections": "32 · 35 · 37"
-        }
-      ],
-      "blurb": "Free tutoring for MTH201 — offered all semester. Attend any session that fits your schedule.",
-      "expires": "2026-12-05",
-      "mailDate": "2026-10-23",
-      "alert": "Monday’s session canceled — this week only.",
-      "alertUntil": "2026-11-02",
-      "id": "n131f6f4519"
-    },
-    {
-      "kind": "tutoring",
-      "org": "LAU Tutoring Services",
-      "title": "GNE212 Tutoring — free of charge",
-      "course": "GNE212",
-      "sessions": [
-        {
-          "days": "Monday",
-          "time": "4:00–5:00 PM",
-          "place": "Frem103G"
-        }
-      ],
-      "blurb": "Free tutoring for Engineering Mechanics — offered all semester. Attend any session that fits your schedule.",
-      "expires": "2026-12-05",
-      "mailDate": "2026-10-23",
-      "id": "n8a4ad74e7a"
-    },
-    {
-      "kind": "tutoring",
-      "org": "LAU Tutoring Services",
-      "title": "COE212 Tutoring — free of charge",
-      "course": "COE212",
-      "sessions": [
-        {
-          "days": "Wednesday",
-          "time": "4:00–6:00 PM",
-          "place": "Zakhem 504"
-        },
-        {
-          "days": "Thursday",
-          "time": "5:00–6:00 PM",
-          "place": "Zakhem 505"
-        }
-      ],
-      "blurb": "Free tutoring for COE212 — offered all semester. Attend any session that fits your schedule.",
-      "expires": "2026-12-05",
-      "mailDate": "2026-10-20",
-      "id": "n516ac7a785"
     }
   ]
 }

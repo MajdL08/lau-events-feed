@@ -1,8 +1,22 @@
 {
   "source": "lau-mail-robot",
   "version": 1,
-  "generatedAt": "2026-10-27T08:01:02+02:00",
+  "generatedAt": "2026-10-27T09:31:15+02:00",
   "items": [
+    {
+      "kind": "event",
+      "org": "LAU Career Services",
+      "title": "Update: JobTeaser Booth Location – Byblos Campus",
+      "date": "2026-10-27",
+      "expires": "2026-10-28",
+      "mailDate": "2026-10-27",
+      "time": "11:00 AM – 1:00 PM",
+      "place": "Medical Cafeteria Area, Byblos Campus",
+      "blurb": "Explore LAU's International Career Portal — stop by the JobTeaser booth to discover the platform's features and find opportunities matched to your interests and career goals.",
+      "details": "Booth hours: October 26 & 27, 11:00 AM – 1:00 PM. Moved indoors to the Medical Cafeteria Area because of the weather forecast (announced in the Oct 27 update).",
+      "body": "Because of today's weather forecast, we will relocate our JobTeaser booth to an indoor location.\n\n📍 Medical Cafeteria Area\n\nDear Students,\n\nHave you explored LAU’s International Career Portal – JobTeaser yet?\n\nStop by our JobTeaser booth to discover the platform’s features and explore opportunities that match your interests and career goals!\n\n📅 October 26 & 27 | 11:00 AM – 1:00 PM\n\n📍 Medical Area, Byblos Campus\n\nWe look forward to seeing you there!",
+      "id": "nf1ac8cd32d"
+    },
     {
       "kind": "event",
       "org": "School of Engineering",

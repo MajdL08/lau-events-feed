@@ -1,22 +1,8 @@
 {
   "source": "lau-mail-robot",
   "version": 1,
-  "generatedAt": "2026-10-27T09:31:15+02:00",
+  "generatedAt": "2026-10-28T11:18:57+02:00",
   "items": [
-    {
-      "kind": "event",
-      "org": "LAU Career Services",
-      "title": "Update: JobTeaser Booth Location – Byblos Campus",
-      "date": "2026-10-27",
-      "expires": "2026-10-28",
-      "mailDate": "2026-10-27",
-      "time": "11:00 AM – 1:00 PM",
-      "place": "Medical Cafeteria Area, Byblos Campus",
-      "blurb": "Explore LAU's International Career Portal — stop by the JobTeaser booth to discover the platform's features and find opportunities matched to your interests and career goals.",
-      "details": "Booth hours: October 26 & 27, 11:00 AM – 1:00 PM. Moved indoors to the Medical Cafeteria Area because of the weather forecast (announced in the Oct 27 update).",
-      "body": "Because of today's weather forecast, we will relocate our JobTeaser booth to an indoor location.\n\n📍 Medical Cafeteria Area\n\nDear Students,\n\nHave you explored LAU’s International Career Portal – JobTeaser yet?\n\nStop by our JobTeaser booth to discover the platform’s features and explore opportunities that match your interests and career goals!\n\n📅 October 26 & 27 | 11:00 AM – 1:00 PM\n\n📍 Medical Area, Byblos Campus\n\nWe look forward to seeing you there!",
-      "id": "nf1ac8cd32d"
-    },
     {
       "kind": "event",
       "org": "School of Engineering",
@@ -45,6 +31,18 @@
       "id": "n5f431111c9"
     },
     {
+      "kind": "deadline",
+      "org": "LAU Career Services",
+      "title": "Explore the Future of Industry at the Lebanese Industry Expo",
+      "date": "2026-10-28",
+      "expires": "2026-10-29",
+      "mailDate": "2026-10-27",
+      "time": "3:00 PM–5:00 PM",
+      "body": "Dear Students,\n\nWould you like to explore Lebanon’s industrial innovations and discover exciting career opportunities?\n Join us for a guided tour of the Lebanese Industry Expo\nand discover the technologies, businesses, and innovations shaping the future of Lebanese industry.\n\n⏰ Student Visit Date & Time:  October\n 31, 2026, from 3:00 PM to 5:00 PM\n\n✅\nFree Admission for the first 50 students who register!\n\n📝 Register here: Please complete\nthis form\n\n📅 Application Deadline: Wednesday, October 28, at 12 noon. Don’t miss\n out!\n\nWhat You'll Gain :\n\n·         Discover industrial innovations and leading Lebanese companies.\n\n·         Explore career opportunities and connect with industry professionals.",
+      "blurb": "Would you like to explore Lebanon’s industrial innovations and discover exciting career opportunities?",
+      "id": "n376d1563f6"
+    },
+    {
       "kind": "event",
       "org": "School of Engineering",
       "title": "[LAU IEEE Robotics] Introduction to Arduino Workshop",
@@ -71,6 +69,18 @@
       "time": "9:00 AM–5:30 PM",
       "body": "Dear Students,\n\nThe Department of Economics at the Lebanese American University is pleased to invite you to the launch of\nMARSAD , a data-driven research observatory focused on socioeconomic\n disparities in the Arab Mashreq. The launch event will take place on Friday, October 30, 2026, from 9:00 a.m. to 5:30 p.m. in AKSOB 903, LAU Beirut Campus,\nand will also be streamed online via Webex .\n\nThe event will bring together distinguished scholars, researchers, and experts to discuss key socioeconomic challenges in the Arab Mashreq. The program will feature keynote\n addresses by internationally recognized economists Dr. Ragui Assaad, Professor and Freeman Chair for International Economic Policy at the University of Minnesota, and\nDr. Francisco Ferreira, Amartya Sen Professor of Inequality Studies at the London School of Economics, alongside three thematic panels focusing on\npoverty, inequality, and economic development\nin the Arab Mashreq.\n\nWe would be honored to have you join us for this important event.\nKindly confirm your attendance by completing this  form.\n\nPlease find the preliminary program agenda below:\n\n- Agenda\n MARSAD \\- Launch Event \\- English version.pdf\n\n- Agenda\n MARSAD \\- Launch Event \\- Arabic version.pdf\n\nWe look forward to your participation.\n\nAll the best,\n\nJamal Ibrahim Haidar\n\nAssistant Professor of Economics, LAU\n\nChairperson, Department of Economics, LAU",
       "id": "n202e109c20"
+    },
+    {
+      "kind": "event",
+      "org": "School of Engineering",
+      "title": "Discover the New Minor in Pharmaceutical Engineering – Join Our Info Session!",
+      "date": "2026-11-03",
+      "expires": "2026-11-04",
+      "mailDate": "2026-10-28",
+      "place": "LAU Byblos – Chagoury Health Sciences Auditorium - 📅",
+      "body": "Dear students,\n\nAre you curious about how medicines are designed, formulated, and manufactured at scale?\n\nThe\nSchool of Engineering and the School of Pharmacy are excited to invite you to an upcoming information session introducing the new\nMinor in Pharmaceutical Engineering!\n\nThis joint initiative offers an interdisciplinary pathway combining engineering principles with pharmaceutical sciences to prepare you for high-impact careers in healthcare, biotechnology, and medicine manufacturing.\n\nEvent Details:\n\n-\n 📍 Location: LAU Byblos – Chagoury Health Sciences Auditorium\n\n-\n 📅 Date: Tuesday, November 3, 2026\n\n-\n ⏰ Time: 3:00 PM\n\nAbout the Minor\n\n-\n18 credits: two core courses, one from each school (CHE 200 and PHA 312), plus four electives of your choice\n-\nOpen to Pharmacy and Chemical Engineering majors (students from other majors may request approval )\n-\nBuilds skills in drug formulation, drug delivery systems, manufacturing and quality control\n-\nOpens doors to pharmaceutical and biotech companies, regulatory agencies and research institutions\n\nAt the session, we will walk you through the courses, when they are offered, how to fit the minor into your study plan, and how to declare it. Faculty from both schools will be\n there to answer your questions.\n\nRead more about the minor here:\n\nWe look forward to seeing you there!",
+      "blurb": "Are you curious about how medicines are designed, formulated, and manufactured at scale?",
+      "id": "n019a4b2376"
     },
     {
       "kind": "deadline",

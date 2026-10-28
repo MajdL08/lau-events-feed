@@ -1,7 +1,7 @@
 {
   "source": "lau-mail-robot",
   "version": 1,
-  "generatedAt": "2026-10-28T11:18:57+02:00",
+  "generatedAt": "2026-10-28T15:00:34+02:00",
   "items": [
     {
       "kind": "event",
@@ -48,7 +48,7 @@
       "title": "[LAU IEEE Robotics] Introduction to Arduino Workshop",
       "date": "2026-10-29",
       "expires": "2026-10-30",
-      "mailDate": "2026-10-23",
+      "mailDate": "2026-10-28",
       "time": "5:00–6:00 PM",
       "place": "Zakhem 406",
       "link": {
@@ -56,8 +56,8 @@
         "url": "https://docs.google.com/forms/d/e/1FAIpQLSfqLJiEia5fQKG1XwKX2XP5YWbDoS-4iixH3KCfuH0zerhK_Q/viewform?usp=publish-editor"
       },
       "blurb": "IEEE Robotics hands-on Arduino workshop. Bring your laptop with Arduino IDE installed — kits and sensors are provided.",
-      "body": "Dear ladies and gents,\n\nThe IEEE Robotics Club, supported by the School of Engineering, will host an exciting hands-on Arduino Workshop where you’ll learn the basics of Arduino, build circuits, write and upload code,\n and participate in fun interactive challenges!\n\nDate: Thursday, October 29\n\nTime: 5:00 – 6:00 PM\n\nLocation: Zakhem 406\n\nPlease make sure to bring with you:\n\n- Your laptop\n- Arduino IDE installed on your laptop\n\nArduino kits and sensors will be provided by the club!\n\nDownload Arduino IDE:\n\nPlease register\nhere.\n\nThis is an introductory workshop (the first in a series). No prior experience needed!",
-      "id": "nf8f472bd44"
+      "body": "Kind reminder!\n\nDear ladies and gents,\n\nThe IEEE Robotics Club, supported by the School of Engineering, will host an exciting hands-on Arduino Workshop where you’ll learn the basics of Arduino, build circuits, write and upload code,\n and participate in fun interactive challenges!\n\nDate: Thursday, October 29\n\nTime: 5:00 – 6:00 PM\n\nLocation: Zakhem 406\n\nPlease make sure to bring with you:\n\n- Your laptop\n- Arduino IDE installed on your laptop\n\nArduino kits and sensors will be provided by the club!\n\nDownload Arduino IDE:\n\nPlease register\nhere.\n\nThis is an introductory workshop (the first in a series). No prior experience needed!",
+      "id": "necb43ae698"
     },
     {
       "kind": "event",

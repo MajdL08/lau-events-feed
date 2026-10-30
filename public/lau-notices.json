@@ -1,47 +1,8 @@
 {
   "source": "lau-mail-robot",
   "version": 1,
-  "generatedAt": "2026-10-28T15:00:34+02:00",
+  "generatedAt": "2026-10-30T10:24:34+02:00",
   "items": [
-    {
-      "kind": "event",
-      "org": "School of Engineering",
-      "title": "Think It. Build It. Launch It. – Join Us on October 28!",
-      "date": "2026-10-28",
-      "expires": "2026-10-29",
-      "mailDate": "2026-10-26",
-      "blurb": "The School of Engineering's entrepreneurship showcase — think it, build it, launch it.",
-      "body": "Kind Reminder!",
-      "id": "n6a21cfd5da"
-    },
-    {
-      "kind": "event",
-      "org": "Dean of Students",
-      "title": "New Date: Coffee with the Dean with President Abdallah",
-      "date": "2026-10-28",
-      "expires": "2026-10-29",
-      "mailDate": "2026-10-26",
-      "time": "12:00–1:00 PM",
-      "place": "Medical Area",
-      "link": {
-        "label": "Register",
-        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfkAHS51wxj0XaNwN0KqGw20Wg1cZ2NiOB4c5SHjjE8L-fOnA/viewform"
-      },
-      "body": "Kind reminder!\n\nDear Students,\n\nPlease note that our upcoming Coffee with the Dean with President Chaouki Abdallah, originally scheduled for October 14, has been postponed to:\n\nDate: Wednesday, October 28, 2026\n\nLocation: Medical Area\n\nTime: 12:00 to 1:00 PM",
-      "id": "n5f431111c9"
-    },
-    {
-      "kind": "deadline",
-      "org": "LAU Career Services",
-      "title": "Explore the Future of Industry at the Lebanese Industry Expo",
-      "date": "2026-10-28",
-      "expires": "2026-10-29",
-      "mailDate": "2026-10-27",
-      "time": "3:00 PM–5:00 PM",
-      "body": "Dear Students,\n\nWould you like to explore Lebanon’s industrial innovations and discover exciting career opportunities?\n Join us for a guided tour of the Lebanese Industry Expo\nand discover the technologies, businesses, and innovations shaping the future of Lebanese industry.\n\n⏰ Student Visit Date & Time:  October\n 31, 2026, from 3:00 PM to 5:00 PM\n\n✅\nFree Admission for the first 50 students who register!\n\n📝 Register here: Please complete\nthis form\n\n📅 Application Deadline: Wednesday, October 28, at 12 noon. Don’t miss\n out!\n\nWhat You'll Gain :\n\n·         Discover industrial innovations and leading Lebanese companies.\n\n·         Explore career opportunities and connect with industry professionals.",
-      "blurb": "Would you like to explore Lebanon’s industrial innovations and discover exciting career opportunities?",
-      "id": "n376d1563f6"
-    },
     {
       "kind": "event",
       "org": "School of Engineering",
@@ -123,6 +84,28 @@
       "details": "Registration booths: Oct 26 – Nov 5, Mon–Thu, 12:00–2:00 PM · Beirut: Upper Gate · Byblos: in front of Architecture Hall",
       "body": "Dear Students,\n\nWe are pleased to invite you to join LAU at the upcoming Spinneys Beirut Marathon 2026, taking place on\nSunday, November 29, whether you would like to participate as a\nrunner or support the event as a\nvolunteer.\n\nThis year, LAU is proudly running for Liver Health.\n\nSpecial Offer – Register Early!\n\nLAU will fully cover the registration fees for the first 100 participants to register for the 6K Fun Fund Run! Don't miss this opportunity to be part of this exciting event at no cost.\n\nVisit Our Campus Registration Booths:\n\n- Beirut Campus: Upper Gate\n- Byblos Campus: In front of Architecture Hall\n\nDates: October 26 – November 5 (Monday to Thursday)\n\nTime: 12:00 PM – 2:00 PM\n\nIf you have any questions or need assistance with your registration, please visit our booths to inquire/register for:\n\n- 6K Fund Run\n- Competitive Races (10K, 21K, and 42K)\n- Volunteers (Open to Students, Faculty, and Staff)\n\nWe will be available daily from Monday through Thursday, from 12:00 PM to 2:00 PM.\n\nWe look forward to seeing you represent LAU at the Beirut Marathon.\n\n| Athletics Office, Beirut & Byblos Campus Office: +961 1 786456 ext. 2177 |\n\n| | Beirut \\| Byblos \\| New York |",
       "id": "n176f425f73"
+    },
+    {
+      "kind": "notice",
+      "org": "LAU Career Services",
+      "title": "The Entrepreneurial Journey: Lessons from Our Alumni",
+      "body": "Dear students,\n\nYou are invited to an inspiring session organized by the Career Development Services in collaboration with\nLAU ENGINE, featuring LAU alumni Daniel El Kadi, Founder & CEO of Tchips, and Ahmad Al Itani, Founder & CEO of Jemle.\n\nDiscover how they turned their ideas into successful businesses and gain valuable insights and lessons from their entrepreneurial journeys.\n\nInterested in attending? Please  Register\n HERE\n\nWe look forward to seeing you there!",
+      "expires": "2026-11-19",
+      "mailDate": "2026-10-29",
+      "link": {
+        "label": "More details",
+        "url": "https://engine.lau.edu.lb/"
+      },
+      "id": "n01d017375a"
+    },
+    {
+      "kind": "notice",
+      "org": "School of Engineering",
+      "title": "Invitation to Meet with the Dean of the School of Engineering",
+      "body": "Dear Students,\n\nYou are cordially invited to a meeting with the Dean of the School of Engineering (SOE), Dr. Michel Khoury, to share your concerns, ask questions, and discuss any issues or suggestions\n you may have.\n\nMeeting Details\n\nThis meeting is an opportunity to express your thoughts, raise any concerns, and engage in an open discussion with the Dean.\n\nWe look forward to your participation and hope to see you there!",
+      "expires": "2026-11-19",
+      "mailDate": "2026-10-29",
+      "id": "nf47c24df54"
     },
     {
       "kind": "notice",

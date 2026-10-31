@@ -1,25 +1,8 @@
 {
   "source": "lau-mail-robot",
   "version": 1,
-  "generatedAt": "2026-10-30T10:24:34+02:00",
+  "generatedAt": "2026-10-31T17:49:19+02:00",
   "items": [
-    {
-      "kind": "event",
-      "org": "School of Engineering",
-      "title": "[LAU IEEE Robotics] Introduction to Arduino Workshop",
-      "date": "2026-10-29",
-      "expires": "2026-10-30",
-      "mailDate": "2026-10-28",
-      "time": "5:00–6:00 PM",
-      "place": "Zakhem 406",
-      "link": {
-        "label": "Register",
-        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfqLJiEia5fQKG1XwKX2XP5YWbDoS-4iixH3KCfuH0zerhK_Q/viewform?usp=publish-editor"
-      },
-      "blurb": "IEEE Robotics hands-on Arduino workshop. Bring your laptop with Arduino IDE installed — kits and sensors are provided.",
-      "body": "Kind reminder!\n\nDear ladies and gents,\n\nThe IEEE Robotics Club, supported by the School of Engineering, will host an exciting hands-on Arduino Workshop where you’ll learn the basics of Arduino, build circuits, write and upload code,\n and participate in fun interactive challenges!\n\nDate: Thursday, October 29\n\nTime: 5:00 – 6:00 PM\n\nLocation: Zakhem 406\n\nPlease make sure to bring with you:\n\n- Your laptop\n- Arduino IDE installed on your laptop\n\nArduino kits and sensors will be provided by the club!\n\nDownload Arduino IDE:\n\nPlease register\nhere.\n\nThis is an introductory workshop (the first in a series). No prior experience needed!",
-      "id": "necb43ae698"
-    },
     {
       "kind": "event",
       "org": "Department of Economics",
@@ -33,6 +16,19 @@
     },
     {
       "kind": "event",
+      "org": "LAU Libraries",
+      "title": "Join the Laura Creative Hub Boot Camp: A 5-Day Guide to Generative AI",
+      "date": "2026-11-02",
+      "expires": "2026-11-03",
+      "mailDate": "2026-10-30",
+      "time": "10:00 AM–10:50 AM",
+      "place": "Creative Space, 10th Floor, Riyad Nassar Library, LAU Beirut Campus",
+      "body": "Dear LAU Community,\n\nThe Library Creative Space in Beirut is excited to invite you to A 5-Day Guide to Generative AI.\n\nJoin us to learn, create, and gain practical experience with AI-powered image generation, video animation, 3D content\n creation, audio production, and intelligent workflows through live demonstrations and interactive sessions.\n\n📍\n Location: Creative Space, 10th Floor, Riyad Nassar Library, LAU Beirut Campus\n\n📅 Dates:\n Monday, November 02 – Friday, November 06 &  Monday, November 09  – Friday,\nNovember 13\n\n🕘 Sessions:  10:00 AM –10:50\n AM\n\nNo prior experience is required—just curiosity, creativity, and a willingness to learn!\n\nSpaces are limited, so register early using\n\nthis link.",
+      "blurb": "The Library Creative Space in Beirut is excited to invite you to A 5-Day Guide to Generative AI.",
+      "id": "ndfdae309cd"
+    },
+    {
+      "kind": "event",
       "org": "School of Engineering",
       "title": "Discover the New Minor in Pharmaceutical Engineering – Join Our Info Session!",
       "date": "2026-11-03",
@@ -42,6 +38,17 @@
       "body": "Dear students,\n\nAre you curious about how medicines are designed, formulated, and manufactured at scale?\n\nThe\nSchool of Engineering and the School of Pharmacy are excited to invite you to an upcoming information session introducing the new\nMinor in Pharmaceutical Engineering!\n\nThis joint initiative offers an interdisciplinary pathway combining engineering principles with pharmaceutical sciences to prepare you for high-impact careers in healthcare, biotechnology, and medicine manufacturing.\n\nEvent Details:\n\n-\n 📍 Location: LAU Byblos – Chagoury Health Sciences Auditorium\n\n-\n 📅 Date: Tuesday, November 3, 2026\n\n-\n ⏰ Time: 3:00 PM\n\nAbout the Minor\n\n-\n18 credits: two core courses, one from each school (CHE 200 and PHA 312), plus four electives of your choice\n-\nOpen to Pharmacy and Chemical Engineering majors (students from other majors may request approval )\n-\nBuilds skills in drug formulation, drug delivery systems, manufacturing and quality control\n-\nOpens doors to pharmaceutical and biotech companies, regulatory agencies and research institutions\n\nAt the session, we will walk you through the courses, when they are offered, how to fit the minor into your study plan, and how to declare it. Faculty from both schools will be\n there to answer your questions.\n\nRead more about the minor here:\n\nWe look forward to seeing you there!",
       "blurb": "Are you curious about how medicines are designed, formulated, and manufactured at scale?",
       "id": "n019a4b2376"
+    },
+    {
+      "kind": "event",
+      "org": "LAU Career Services",
+      "title": "From Classroom to Career | Interactive & Practical Workshop",
+      "date": "2026-11-04",
+      "expires": "2026-11-05",
+      "mailDate": "2026-10-30",
+      "body": "Dear Students and Alumni,\n\nReady to stand out in your next job interview?\n🚀\n\nJoin us for an interactive, hands-on workshop with Suzy Atchabahian, ACC, Head of Talent Management & Organizational Development at\nTAMINA (part of CMA CGM Group),\nto learn what employers look for, strengthen your interview skills, and make a lasting impression.\n\n💡 What you'll gain:\n\n-\nDiscover key competencies employers use to evaluate and select candidates and explore 2026 hiring trends.\n-\nLearn the STAR technique and how to communicate with confidence.\n-\nPractice real interview scenarios and receive immediate feedback.\n\n📍 Byblos Campus: Wednesday, November 4 | 3:00 PM | Medical Auditorium\n\n👉 Register here\n\nWe look forward to seeing you!",
+      "blurb": "Ready to stand out in your next job interview?",
+      "id": "n3435890c98"
     },
     {
       "kind": "deadline",

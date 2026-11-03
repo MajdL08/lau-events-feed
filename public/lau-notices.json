@@ -1,19 +1,8 @@
 {
   "source": "lau-mail-robot",
   "version": 1,
-  "generatedAt": "2026-10-31T17:49:19+02:00",
+  "generatedAt": "2026-11-03T22:51:22+02:00",
   "items": [
-    {
-      "kind": "event",
-      "org": "Department of Economics",
-      "title": "Invitation to the launch of MARSAD-Research Observatory on Socioeconomic Disparities in the Arab Mashreq",
-      "date": "2026-10-30",
-      "expires": "2026-10-31",
-      "mailDate": "2026-10-20",
-      "time": "9:00 AM–5:30 PM",
-      "body": "Dear Students,\n\nThe Department of Economics at the Lebanese American University is pleased to invite you to the launch of\nMARSAD , a data-driven research observatory focused on socioeconomic\n disparities in the Arab Mashreq. The launch event will take place on Friday, October 30, 2026, from 9:00 a.m. to 5:30 p.m. in AKSOB 903, LAU Beirut Campus,\nand will also be streamed online via Webex .\n\nThe event will bring together distinguished scholars, researchers, and experts to discuss key socioeconomic challenges in the Arab Mashreq. The program will feature keynote\n addresses by internationally recognized economists Dr. Ragui Assaad, Professor and Freeman Chair for International Economic Policy at the University of Minnesota, and\nDr. Francisco Ferreira, Amartya Sen Professor of Inequality Studies at the London School of Economics, alongside three thematic panels focusing on\npoverty, inequality, and economic development\nin the Arab Mashreq.\n\nWe would be honored to have you join us for this important event.\nKindly confirm your attendance by completing this  form.\n\nPlease find the preliminary program agenda below:\n\n- Agenda\n MARSAD \\- Launch Event \\- English version.pdf\n\n- Agenda\n MARSAD \\- Launch Event \\- Arabic version.pdf\n\nWe look forward to your participation.\n\nAll the best,\n\nJamal Ibrahim Haidar\n\nAssistant Professor of Economics, LAU\n\nChairperson, Department of Economics, LAU",
-      "id": "n202e109c20"
-    },
     {
       "kind": "event",
       "org": "LAU Libraries",
@@ -49,6 +38,17 @@
       "body": "Dear Students and Alumni,\n\nReady to stand out in your next job interview?\n🚀\n\nJoin us for an interactive, hands-on workshop with Suzy Atchabahian, ACC, Head of Talent Management & Organizational Development at\nTAMINA (part of CMA CGM Group),\nto learn what employers look for, strengthen your interview skills, and make a lasting impression.\n\n💡 What you'll gain:\n\n-\nDiscover key competencies employers use to evaluate and select candidates and explore 2026 hiring trends.\n-\nLearn the STAR technique and how to communicate with confidence.\n-\nPractice real interview scenarios and receive immediate feedback.\n\n📍 Byblos Campus: Wednesday, November 4 | 3:00 PM | Medical Auditorium\n\n👉 Register here\n\nWe look forward to seeing you!",
       "blurb": "Ready to stand out in your next job interview?",
       "id": "n3435890c98"
+    },
+    {
+      "kind": "event",
+      "org": "LAU Career Services",
+      "title": "Got an Interview? Here's How to Stand Out!",
+      "date": "2026-11-04",
+      "expires": "2026-11-05",
+      "mailDate": "2026-11-03",
+      "body": "What makes an employer say, \"We want THIS candidate\"?\n 👉 Register\nhere\nfor tomorrow’s session to master the art of answering interview questions.\n\nDear Students and Alumni,\n\nReady to stand out in your next job interview?\n🚀\n\nJoin us for an interactive, hands-on workshop with Suzy Atchabahian, ACC, Head of Talent Management & Organizational Development at\nTAMINA (part of CMA CGM Group),\nto learn what employers look for, strengthen your interview skills, and make a lasting impression.\n\n💡 What you'll gain:\n\n-\nDiscover key competencies employers use to evaluate and select candidates and explore 2026 hiring trends.\n-\nLearn the STAR technique and how to communicate with confidence.\n-\nPractice real interview scenarios and receive immediate feedback.\n\n📍 Byblos Campus: Wednesday, November 4 | 3:00 PM | Medical Auditorium\n\n👉 Register here\n\nWe look forward to seeing you!",
+      "blurb": "Ready to stand out in your next job interview?",
+      "id": "nd05d51dd1d"
     },
     {
       "kind": "deadline",
@@ -91,6 +91,32 @@
       "details": "Registration booths: Oct 26 – Nov 5, Mon–Thu, 12:00–2:00 PM · Beirut: Upper Gate · Byblos: in front of Architecture Hall",
       "body": "Dear Students,\n\nWe are pleased to invite you to join LAU at the upcoming Spinneys Beirut Marathon 2026, taking place on\nSunday, November 29, whether you would like to participate as a\nrunner or support the event as a\nvolunteer.\n\nThis year, LAU is proudly running for Liver Health.\n\nSpecial Offer – Register Early!\n\nLAU will fully cover the registration fees for the first 100 participants to register for the 6K Fun Fund Run! Don't miss this opportunity to be part of this exciting event at no cost.\n\nVisit Our Campus Registration Booths:\n\n- Beirut Campus: Upper Gate\n- Byblos Campus: In front of Architecture Hall\n\nDates: October 26 – November 5 (Monday to Thursday)\n\nTime: 12:00 PM – 2:00 PM\n\nIf you have any questions or need assistance with your registration, please visit our booths to inquire/register for:\n\n- 6K Fund Run\n- Competitive Races (10K, 21K, and 42K)\n- Volunteers (Open to Students, Faculty, and Staff)\n\nWe will be available daily from Monday through Thursday, from 12:00 PM to 2:00 PM.\n\nWe look forward to seeing you represent LAU at the Beirut Marathon.\n\n| Athletics Office, Beirut & Byblos Campus Office: +961 1 786456 ext. 2177 |\n\n| | Beirut \\| Byblos \\| New York |",
       "id": "n176f425f73"
+    },
+    {
+      "kind": "notice",
+      "org": "LAU Career Services",
+      "title": "It's today: The Entrepreneurial Journey: Lessons from Our Alumni",
+      "body": "Don't miss this opportunity to hear from two successful LAU alumni! See you today at FREM 203–204 at 12:00 PM!\n\nCc: LAU Engine <engine@lau.edu.lb>\n\nDear students,\n\nYou are invited to an inspiring session organized by the Career Development Services in collaboration with\nLAU ENGINE, featuring LAU alumni Daniel El Kadi, Founder & CEO of Tchips, and Ahmad Al Itani, Founder & CEO of Jemle.\n\nDiscover how they turned their ideas into successful businesses and gain valuable insights and lessons from their entrepreneurial journeys.\n\nInterested in attending? Please  Register\n HERE\n\nWe look forward to seeing you there!",
+      "expires": "2026-11-24",
+      "mailDate": "2026-11-03",
+      "link": {
+        "label": "More details",
+        "url": "https://engine.lau.edu.lb/"
+      },
+      "id": "ndfd8d64842"
+    },
+    {
+      "kind": "notice",
+      "org": "School of Engineering",
+      "title": "[Student Advising App.] Invitation to two minute survey",
+      "body": "Dead ladies and gents,\n\nWe invite those of you who have used the Student Agentic Advising App (ADA) to complete the following two-minute survey. Your feedback will help us better understand your experience with the application and gather recommendations for its\n future enhancement.\n\nPlease find here the: link to the two\\-minute survey",
+      "expires": "2026-11-23",
+      "mailDate": "2026-11-02",
+      "link": {
+        "label": "Register",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLScHMK-a0amn1VHTJGD-TjXQF8IM2BN4IgPo2zGbxVqfMj664Q/viewform"
+      },
+      "id": "n258e133453"
     },
     {
       "kind": "notice",

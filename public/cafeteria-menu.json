@@ -2,8 +2,8 @@
   "source": "hospitality-byblos",
   "kind": "cafeteria-menu",
   "title": "57 Plat Du Jour — LAU Byblos Cafeteria",
-  "fetchedAt": "2026-11-09T09:30:31+00:00",
-  "weekOf": "2026-11-09",
+  "fetchedAt": "2026-11-14T12:00:04+00:00",
+  "weekOf": "2026-11-16",
   "currency": "LBP",
   "hours": {
     "main": "Mon–Fri 7:30 AM–7:00 PM",
@@ -12,71 +12,71 @@
   },
   "days": [
     {
-      "date": "2026-11-09",
+      "date": "2026-11-16",
       "weekday": "Monday",
       "dishes": [
         {
-          "name": "Shish Barak",
-          "price": 680000
+          "name": "Kibbeh Bel Sayniyeh & Yogurt",
+          "price": 770000
         },
         {
-          "name": "Chicken Four Cheese Pasta",
+          "name": "Mexican Chicken Potatoes & Veggies",
           "price": 680000
         }
       ]
     },
     {
-      "date": "2026-11-10",
+      "date": "2026-11-17",
       "weekday": "Tuesday",
       "dishes": [
         {
-          "name": "Chicken Cordon Bleu Fries & Coleslaw",
-          "price": 680000
+          "name": "Beef Kebab, Hummus & Potatoes",
+          "price": 770000
         },
         {
-          "name": "Bazella W Riz",
+          "name": "Chicken Supreme",
           "price": 680000
         }
       ]
     },
     {
-      "date": "2026-11-11",
+      "date": "2026-11-18",
       "weekday": "Wednesday",
       "dishes": [
         {
-          "name": "Chicken & Potato Stew With Rice",
-          "price": 680000
+          "name": "Thai Beef Noodles",
+          "price": 770000
         },
         {
-          "name": "Potato Soufflé",
+          "name": "Chicken Schnitzel, Fries & Coleslaw",
           "price": 680000
         }
       ]
     },
     {
-      "date": "2026-11-12",
+      "date": "2026-11-19",
       "weekday": "Thursday",
       "dishes": [
         {
-          "name": "Chicken Rolls Creamy Spinach, Potatoes & Veggies",
+          "name": "Chicken Curry, Potatoes & Veggies",
           "price": 680000
         },
         {
-          "name": "Beef Stroganoff",
+          "name": "Oriental Gigot",
           "price": 770000
         }
       ]
     },
     {
-      "date": "2026-11-13",
+      "date": "2026-11-20",
       "weekday": "Friday",
       "dishes": [
         {
-          "name": "Berghoul Banadoura",
-          "price": 590000
+          "name": "Fried Fish, Fries & Coleslaw",
+          "price": 680000
         },
         {
-          "name": "Chicken Taouk Fries & Coleslaw",
+          "name": "Chicken Stroganoff",
           "price": 680000
         }
       ]

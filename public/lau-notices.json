@@ -1,8 +1,20 @@
 {
   "source": "lau-mail-robot",
   "version": 1,
-  "generatedAt": "2026-11-16T10:58:59+00:00",
+  "generatedAt": "2026-11-16T11:59:15+00:00",
   "items": [
+    {
+      "kind": "event",
+      "org": "LAU Career Services",
+      "title": "Explore Your Future with Forage – Get Started on Campus!",
+      "date": "2026-11-17",
+      "expires": "2026-11-18",
+      "mailDate": "2026-11-16",
+      "time": "11:00 AM–1:00 PM",
+      "body": "Dear Students,\n\nWhat if you could try out real-world job tasks designed by leading companies before choosing your career path?\n\nWith\nForage, you can!\n\nForage offers free, self-paced virtual work experience designed by leading companies, allowing you to explore different career paths, gain practical skills, and experience real-world workplace tasks.\n\nNot sure how to get started or how to make the most of your Forage account?\n\nVisit the Career Development Services booth, where we'll guide you through:\n\n📅\nTuesday, November 17\n\n🕚\n11:00 AM – 1:00 PM\n\n-\n Byblos Campus: CHSC Cafeteria\n-\n Beirut Campus: Upper Gate Area\n\nWe look forward to seeing you there!",
+      "blurb": "What if you could try out real-world job tasks designed by leading companies before choosing your career path?",
+      "id": "n1e3e58b0b3"
+    },
     {
       "kind": "event",
       "org": "Department of Economics",

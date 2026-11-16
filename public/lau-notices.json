@@ -1,7 +1,7 @@
 {
   "source": "lau-mail-robot",
   "version": 1,
-  "generatedAt": "2026-11-16T13:59:29+00:00",
+  "generatedAt": "2026-11-16T14:59:29+00:00",
   "items": [
     {
       "kind": "event",
@@ -99,6 +99,19 @@
         "url": "https://soe.lau.edu.lb/research/research-track-certificate-of-completion.php"
       },
       "id": "nddf1529dbe"
+    },
+    {
+      "kind": "notice",
+      "org": "School of Engineering",
+      "title": "[IEEE Power & Energy] Energy in Focus: A Talk With Solaris",
+      "body": "Dear Ladies & Gents,\n\nThe IEEE Power and Energy with the support of the School Of Engineering invites you to attend a talk with Solaris.\n\nRepresentatives from the company will dive into the future of renewable energy, solar solutions, and electric mobility covering Solar PV, battery storage, EVs and fast charging.\n\nDate: Tuesday 17th November\n\nTime: 2:00pm - 3:00pm\n\nLocation: Frem 203-204\n\nRegister Here:\n\nSee you then!",
+      "expires": "2026-12-07",
+      "mailDate": "2026-11-16",
+      "link": {
+        "label": "Register",
+        "url": "https://forms.gle/woD15vwKi6kh9DRT9**"
+      },
+      "id": "n3375cb7bad"
     },
     {
       "kind": "notice",

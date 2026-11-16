@@ -1,7 +1,7 @@
 {
   "source": "lau-mail-robot",
   "version": 1,
-  "generatedAt": "2026-11-16T11:59:15+00:00",
+  "generatedAt": "2026-11-16T13:59:29+00:00",
   "items": [
     {
       "kind": "event",
@@ -40,6 +40,20 @@
     {
       "kind": "event",
       "org": "Athletics Office",
+      "title": "3-on-3 Intramural Basketball Tournament",
+      "date": "2026-11-24",
+      "expires": "2026-11-25",
+      "mailDate": "2026-11-16",
+      "link": {
+        "label": "Register",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSepJHHMUjzNzyTl8Ir451IIi7j3pUmOoFwPV0dwRu4sfndaEw/viewform?usp=dialog"
+      },
+      "body": "Dear students and staff,\n\nThe LAU Athletics Department invites you to participate in the 3-on-3 Intramural Basketball Tournament, exclusively for students and staff at\nLAU Byblos Campus, starting Tuesday, November 24, 2026.\n\nEach team must register\nthree players and may include one optional substitute. We’ll share the game schedule and tip-off times once all teams are confirmed.\n\nTo register your team, tap on the link below or scan the QR code:\n\nRegistration\n link\n\n See you on the court!\n\n| Athletics Office, Beirut & Byblos Campus Office: +961 1 786456 ext. 2177 |\n\n| | Beirut \\| Byblos \\| New York |",
+      "id": "n19a6c7f591"
+    },
+    {
+      "kind": "event",
+      "org": "Athletics Office",
       "title": "Join LAU at the Spinneys Beirut Marathon 2026!",
       "date": "2026-11-29",
       "expires": "2026-11-30",
@@ -72,6 +86,19 @@
         "url": "https://eventscal.lau.edu.lb/students/"
       },
       "id": "n242abb701f"
+    },
+    {
+      "kind": "notice",
+      "org": "School of Engineering",
+      "title": "SOE Research Track Certificate of Completion",
+      "body": "Dear SOE Students,\n\nAs you prepare your Spring 2027 course schedule, we invite you to consider pursuing the\nResearch Track and earning its Certificate of Completion. The track is designed for undergraduate students who want to go beyond the traditional curriculum through meaningful faculty-supervised research.\n\nTo qualify for the certificate, students must complete:\n\n-\n6 credits of Undergraduate Research Experience (URE).\n-\nThe 3-credit course GNE598 Research Methods for Engineers.\n\nGNE598 will be offered in Spring 2027. Students may enroll once they have completed 3 credits of URE or are concurrently registered in 3 credits of URE. The course builds core research skills, including conducting a literature review, formulating research\n questions, practicing research ethically, and writing proposals and research papers.\n\nWhy join the Research Track?\n\n-\nHands-on experience working closely with faculty on real research problems.\n\n-\nA formal certificate that documents your research training and sets your profile apart.\n\n-\nStronger applications for graduate programs and fast-track PhD pathways.\n-\nA competitive edge for fellowships, scholarships and R&D careers.\n\nFurther information is available at Research Track Certificate of Completion. For inquiries, feel free to contact the SOE Dean’s Office at (dean.soe@lau.edu.lb).",
+      "expires": "2026-12-07",
+      "mailDate": "2026-11-16",
+      "link": {
+        "label": "More details",
+        "url": "https://soe.lau.edu.lb/research/research-track-certificate-of-completion.php"
+      },
+      "id": "nddf1529dbe"
     },
     {
       "kind": "notice",

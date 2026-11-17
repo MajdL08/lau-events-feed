@@ -1,7 +1,7 @@
 {
   "source": "lau-mail-robot",
   "version": 1,
-  "generatedAt": "2026-11-17T09:59:05+00:00",
+  "generatedAt": "2026-11-17T10:59:15+00:00",
   "items": [
     {
       "kind": "event",
@@ -86,6 +86,19 @@
         "url": "https://forms.gle/woD15vwKi6kh9DRT9**"
       },
       "id": "ne1df7f45f3"
+    },
+    {
+      "kind": "notice",
+      "org": "School of Arts & Sciences",
+      "title": "Coffee with POLIS",
+      "body": "Office of the Dean\n\nSchool of Arts & Sciences\n\nOffice:  +961 1 786456 ext. 1105/2333\n\nBeirut  |  Byblos  |  New\n York\n\nf\n\nin\n\nx\n\nig",
+      "expires": "2026-12-08",
+      "mailDate": "2026-11-17",
+      "link": {
+        "label": "More details",
+        "url": "http://sas.lau.edu.lb/?utm_source=lau_email&utm_medium=email&utm_campaign=EmailSig2018"
+      },
+      "id": "n25d85c04ec"
     },
     {
       "kind": "notice",

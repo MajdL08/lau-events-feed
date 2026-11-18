@@ -1,7 +1,7 @@
 {
   "source": "lau-mail-robot",
   "version": 1,
-  "generatedAt": "2026-11-18T08:00:23+00:00",
+  "generatedAt": "2026-11-18T13:59:54+00:00",
   "items": [
     {
       "kind": "event",
@@ -53,6 +53,18 @@
     },
     {
       "kind": "event",
+      "org": "School of Engineering",
+      "title": "Discover, Explore & Get Inspired - VIP+ Showcase Day | November 26 | 12 to 4 PM | FCC - Byblos Campus.",
+      "date": "2026-11-26",
+      "expires": "2026-11-27",
+      "mailDate": "2026-11-18",
+      "time": "12:00 PM–4:00 PM",
+      "body": "Dear Students,\n\nWhat can you create when creativity meets innovation and teamwork?\n\nJoin us for VIP+ Showcase Day, organized by the School of Engineering, and discover what your fellow students have been working on!\n\nWith 18 VIP+ teams showcasing their projects, this is your opportunity to:\n\n- Explore innovative projects and creative ideas developed by LAU students.\n- Get inspired by what students from different disciplines can achieve through teamwork.\n- Discover VIP+ and learn how you can participate in future projects.\n- Connect with fellow students, exchange ideas, and explore opportunities beyond the classroom.\n\nStudents from all majors and disciplines are welcome.\n\nEvent Details:\n\n- Date: Thursday, November 26, 2026\n- Time: 12:00 PM – 4:00 PM\n- Venue: Frem Multipurpose Room, Byblos Campus\n\nCome curious, leave inspired, and discover what you could be part of next!\n\nWe look forward to seeing you there!\n\nVIP+ Team",
+      "blurb": "What can you create when creativity meets innovation and teamwork?",
+      "id": "n580fb983b0"
+    },
+    {
+      "kind": "event",
       "org": "Athletics Office",
       "title": "Join LAU at the Spinneys Beirut Marathon 2026!",
       "date": "2026-11-29",
@@ -82,6 +94,19 @@
       "expires": "2026-12-09",
       "mailDate": "2026-11-18",
       "id": "n867d27fe9f"
+    },
+    {
+      "kind": "notice",
+      "org": "LAU Libraries",
+      "title": "Library Monthly Spotlight: Libraries New Website",
+      "body": "Dear LAU Community,\n\nThe LAU Libraries is home to some amazing resources/Tools! In our November spotlight, we will bring some of these resources straight to your inbox.\n\n This month's spotlight resource is....\n\nWhat?  Libraries New Website\n\nWho can benefit?\nStudents, faculty, researchers and anyone looking for reliable academic and research materials across different\n disciplines.\n\nHow to access?\n  Visit LAU\nLibraries website and select\nEverything to search across the libraries’ resources.\n\nHungry for more?   Explore\nLAU Libraries' online databases to discover specialized academic resources and research collections.\n\n  LAU Libraries\n\nCollection Management Division",
+      "expires": "2026-12-09",
+      "mailDate": "2026-11-18",
+      "link": {
+        "label": "More details",
+        "url": "https://libraries.lau.edu.lb/finding-materials/databases/"
+      },
+      "id": "n2cf5140c43"
     },
     {
       "kind": "notice",

@@ -1,7 +1,7 @@
 {
   "source": "lau-mail-robot",
   "version": 1,
-  "generatedAt": "2026-11-19T07:59:11+00:00",
+  "generatedAt": "2026-11-19T10:59:31+00:00",
   "items": [
     {
       "kind": "event",
@@ -73,6 +73,19 @@
       "body": "Dear Students,\n\nThe United Nations Academic Impact and Millennium Campus Network (MCN) proudly present the\nMillennium Fellowship.\n\nThe program convenes, challenges and celebrates bold undergraduate students advancing the\nSustainable Development Goals on campus and in communities. As a Millennium Fellow, you will hone your skills, take concrete action and earn recognition. There is no cost for selected students.\n\nUndergraduate students can apply by the next priority deadline:\nNovember 30, 2026. The class of 2027 will run from August to December 2027.",
       "blurb": "The United Nations Academic Impact and Millennium Campus Network (MCN) proudly present the Millennium Fellowship.",
       "id": "na5c1216346"
+    },
+    {
+      "kind": "notice",
+      "org": "School of Arts & Sciences",
+      "title": "DANCE HAUSpiu",
+      "body": "Office of the Dean\n\nSchool of Arts & Sciences\n\nOffice:  +961 1 786456 ext. 1105/2333\n\nBeirut   |   Byblos   |   New\n York\n\nf\n\nin\n\nx\n\nig",
+      "expires": "2026-12-10",
+      "mailDate": "2026-11-19",
+      "link": {
+        "label": "More details",
+        "url": "http://sas.lau.edu.lb/?utm_source=lau_email&utm_medium=email&utm_campaign=EmailSig2018"
+      },
+      "id": "nda0911ffdc"
     },
     {
       "kind": "notice",

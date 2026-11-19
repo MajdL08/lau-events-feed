@@ -1,7 +1,7 @@
 {
   "source": "lau-mail-robot",
   "version": 1,
-  "generatedAt": "2026-11-19T10:59:31+00:00",
+  "generatedAt": "2026-11-19T13:00:29+00:00",
   "items": [
     {
       "kind": "event",
@@ -38,6 +38,17 @@
       },
       "body": "Dear students and staff,\n\nThe LAU Athletics Department invites you to participate in the 3-on-3 Intramural Basketball Tournament, exclusively for students and staff at\nLAU Byblos Campus, starting Tuesday, November 24, 2026.\n\nEach team must register\nthree players and may include one optional substitute. We’ll share the game schedule and tip-off times once all teams are confirmed.\n\nTo register your team, tap on the link below or scan the QR code:\n\nRegistration\n link\n\n See you on the court!\n\n| Athletics Office, Beirut & Byblos Campus Office: +961 1 786456 ext. 2177 |\n\n| | Beirut \\| Byblos \\| New York |",
       "id": "n19a6c7f591"
+    },
+    {
+      "kind": "event",
+      "org": "LAU Career Services",
+      "title": "Join Our Masterclass: Using AI to Build a Winning Resume and Cover Letter",
+      "date": "2026-11-26",
+      "expires": "2026-11-27",
+      "mailDate": "2026-11-19",
+      "body": "Dear Students,\n\nWant to make AI work for you in your job search?\n\nLearn how to leverage AI tools to create impactful resumes and cover letters that strengthen your job applications.\n\nNovember 26,2026 | 3:00PM |\nLink to Join\n\nRegistration: Click\n Here\n\nFor more details about the speaker and the workshop, please visit  the :LAU\n | Events | AI\\-Powered Resume Masterclass",
+      "blurb": "Want to make AI work for you in your job search?",
+      "id": "nf7c422d5af"
     },
     {
       "kind": "event",

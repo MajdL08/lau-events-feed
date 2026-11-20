@@ -1,7 +1,7 @@
 {
   "source": "lau-mail-robot",
   "version": 1,
-  "generatedAt": "2026-11-20T12:59:20+00:00",
+  "generatedAt": "2026-11-20T14:59:20+00:00",
   "items": [
     {
       "kind": "event",
@@ -14,6 +14,17 @@
       "body": "Dear Students,\n\nA quick reminder to join us tomorrow for an engaging discussion with LAU alumni and gain valuable insights into career opportunities\n in the technology sector.\n\nDon't forget to\nregister here!\n\nDear students,\n\nReady to expand your professional network and hear firsthand from fellow LAU alumni?\n\nThe\nCareer Development Services, in collaboration with the\nComputer Science Department invites you join us on\nFriday, November 20, for an engaging panel discussion as part of Connect with Your Future-\nCareer Exploration Event.\n\nAs part of the event, we are hosting a\nComputing & Technology Panel, featuring LAU alumni who will share their career journeys, professional experiences, and insights into the evolving technology sector.\n\nFriday, November 20 | 12:00–1:00 PM | CHSC Auditorium.\n\nWhether you are studying Computer Science, Computer Engineering, or simply interested in exploring career opportunities in the technology sector, this is a great opportunity to connect, learn,\n and gain insights from professionals in the field.\n\nFor Registration , please\nClick Here.\n\nWe look forward to seeing you there!",
       "blurb": "A quick reminder to join us tomorrow for an engaging discussion with LAU alumni and gain valuable insights into career opportunities in the technology sector.",
       "id": "n0439792ed9"
+    },
+    {
+      "kind": "event",
+      "org": "Dean of Students",
+      "title": "Independence Day Holiday!",
+      "date": "2026-11-23",
+      "expires": "2026-11-24",
+      "mailDate": "2026-11-20",
+      "body": "Dear Students,\n\nIn line with the governmental decision, please note that the University will be closed on Monday, November 23, 2026,\non the occasion of the Independence Day.\n\nHappy Holiday!\n\nRaed Mohsen, PhD\n\nJad Abdallah, PhD\n\nDeans of Students\n\nBeirut  |  Byblos  |  New\n York\n\nf\n\nin\n\nx\n\nig",
+      "blurb": "In line with the governmental decision, please note that the University will be closed on Monday, November 23, 2026, on the occasion of the Independence Day.",
+      "id": "n6bb189662a"
     },
     {
       "kind": "event",

@@ -2,84 +2,73 @@
   "source": "hospitality-byblos",
   "kind": "cafeteria-menu",
   "title": "57 Plat Du Jour — LAU Byblos Cafeteria",
-  "fetchedAt": "2026-11-14T12:00:04+00:00",
-  "weekOf": "2026-11-16",
+  "fetchedAt": "2026-11-23T15:05:31+00:00",
+  "weekOf": "2026-11-23",
   "currency": "LBP",
   "hours": {
-    "main": "Mon–Fri 7:30 AM–7:00 PM",
-    "cyber": "Mon–Fri 7:30 AM–5:00 PM",
+    "main": "Tue–Fri 7:30 AM–7:00 PM",
+    "cyber": "Tue–Fri 7:30 AM–5:00 PM",
     "deliveryExt": "2145"
   },
   "days": [
     {
-      "date": "2026-11-16",
-      "weekday": "Monday",
-      "dishes": [
-        {
-          "name": "Kibbeh Bel Sayniyeh & Yogurt",
-          "price": 770000
-        },
-        {
-          "name": "Mexican Chicken Potatoes & Veggies",
-          "price": 680000
-        }
-      ]
-    },
-    {
-      "date": "2026-11-17",
+      "date": "2026-11-24",
       "weekday": "Tuesday",
       "dishes": [
         {
-          "name": "Beef Kebab, Hummus & Potatoes",
-          "price": 770000
+          "name": "Chicken Fajitas",
+          "price": 680000
         },
         {
-          "name": "Chicken Supreme",
+          "name": "Lasagna",
           "price": 680000
         }
       ]
     },
     {
-      "date": "2026-11-18",
+      "date": "2026-11-25",
       "weekday": "Wednesday",
       "dishes": [
         {
-          "name": "Thai Beef Noodles",
+          "name": "Loubieh W Riz",
           "price": 770000
         },
         {
-          "name": "Chicken Schnitzel, Fries & Coleslaw",
+          "name": "Chicken Creamy Pesto Pasta",
           "price": 680000
         }
       ]
     },
     {
-      "date": "2026-11-19",
+      "date": "2026-11-26",
       "weekday": "Thursday",
       "dishes": [
         {
-          "name": "Chicken Curry, Potatoes & Veggies",
+          "name": "Chicken With Mushroom Sauce, Potatoes & Veggies",
           "price": 680000
         },
         {
-          "name": "Oriental Gigot",
+          "name": "Kafta, Potatoes & Rice",
           "price": 770000
         }
       ]
     },
     {
-      "date": "2026-11-20",
+      "date": "2026-11-27",
       "weekday": "Friday",
       "dishes": [
         {
-          "name": "Fried Fish, Fries & Coleslaw",
-          "price": 680000
+          "name": "Beef Shawarma",
+          "price": 770000
         },
         {
-          "name": "Chicken Stroganoff",
+          "name": "Fish Curry With Rice",
           "price": 680000
         }
       ]
     }
+  ],
+  "holidays": [
+    "2026-11-23"
   ]
 }

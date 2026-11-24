@@ -1,7 +1,7 @@
 {
   "source": "lau-mail-robot",
   "version": 1,
-  "generatedAt": "2026-11-24T12:59:37+00:00",
+  "generatedAt": "2026-11-24T15:00:20+00:00",
   "items": [
     {
       "kind": "event",
@@ -61,6 +61,23 @@
       "time": "1:00 PM–2:00 PM",
       "body": "Greetings,\n\nThe School of Engineering is pleased to invite you to the following session by Ghaddar Machinery:\n\n📄\nTitle: The Energy Transition: From Conventional Power to Smart Energy\n\n*🎤\n*Speakers:*\n* Karim Ghaddar (Electrical Engineer) and Mohammad Shaath (Electrical Engineer)\n\n📅\nDate: Thursday, November 26, 2026\n\n🕒\nTime: 1:00 p.m. – 2:00 p.m.\n\n📍\nPlace: Chagoury Health Sciences Auditorium, Byblos Campus\n\nThe session will explore the evolution of the energy sector, highlighting the transition from conventional power generation to smart and sustainable energy solutions, with practical insights drawn from Ghaddar\n Machinery's industry experience.\n\nWe look forward to seeing you all there!",
       "id": "nf1a65c78a8"
+    },
+    {
+      "kind": "event",
+      "org": "Department of Economics",
+      "title": "Bridging disciplines by the Mathematics and Economics Club",
+      "date": "2026-11-27",
+      "expires": "2026-11-28",
+      "mailDate": "2026-11-24",
+      "time": "3:30–5:00 PM",
+      "place": "AKSOB 1211, LAU Beirut Campus",
+      "link": {
+        "label": "Register",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSegt8BVqmJkzYd8bgKkOaTlFvdNUD_oW7V6oK5rS-hR03Bi0Q/viewform?usp=header"
+      },
+      "body": "Dear Students,\n\nHow does Mathematics shape the way we understand Economics? And how can a background in mathematics open doors to graduate studies and research in economics?\n\n Join the Mathematics Club and Economics Club at LAU for an engaging interdisciplinary event exploring the connection between these two fields! Whether you’re a\n mathematics enthusiast, an economics student, or simply curious about where these disciplines meet, this is an opportunity to explore new perspectives and possibilities!\n\nThrough insights from distinguished professors and the personal journeys of mathematics graduates who pursued PhDs in Economics, discover how mathematical foundations\n can lead to exciting academic and career opportunities.\n\nDate: Friday, November 27, 2026\n\nTime: 3:30–5:00 p.m.\n\nLocation: AKSOB 1211, LAU Beirut Campus\n\nOnline:\n\nSpeakers:\n\n- Dr. Walid Marrouch, Professor of Economics and Associate Dean of Graduate Studies and Research\n- Dr. Mohamad Karaki, Associate Professor of Economics\n- Dr. Nour Chalhoub, Assistant Professor of Economics\n- Dr. Ghina Abdul Baki, Postdoctoral Researcher at the University of Ottawa\n\nPlease refer the flyer below for further details, and kindly confirm your participation though this\nlink.\n\nWe look forward to seeing you there!\n\nJamal\n\nJamal Ibrahim Haidar\n\nAssistant Professor of Economics, LAU\n\nChairperson, Department of Economics, LAU",
+      "blurb": "How does Mathematics shape the way we understand Economics?",
+      "id": "nd76366a52c"
     },
     {
       "kind": "event",

@@ -1,7 +1,7 @@
 {
   "source": "lau-mail-robot",
   "version": 1,
-  "generatedAt": "2026-11-24T09:59:09+00:00",
+  "generatedAt": "2026-11-24T12:59:37+00:00",
   "items": [
     {
       "kind": "event",
@@ -109,6 +109,19 @@
     },
     {
       "kind": "notice",
+      "org": "Student Activities",
+      "title": "Upcoming Activities (Byblos)",
+      "body": "Updated upcoming activities.\n\nFor more details about each activity, check out the Events Calendar\nHere .",
+      "expires": "2026-12-15",
+      "mailDate": "2026-11-24",
+      "link": {
+        "label": "More details",
+        "url": "https://eventscal.lau.edu.lb/students/"
+      },
+      "id": "n242abb701f"
+    },
+    {
+      "kind": "notice",
       "org": "Dean of Students",
       "title": "Christmas at LAU Byblos - Starts Today",
       "body": "Good morning, everyone!\n\nChristmas at LAU Byblos starts today!\n\nSelina Korban Auditorium\n\n- 12:30 p.m. –\n*Be Someone’s Miracle*, featuring Tony Beaino\n- 4:30 p.m. – Emmanuel Choir\n\nMedical Area\n\n- 12:00–6:00 p.m. – Christmas Village\n- 5:30 p.m. – Christmas tree and campus lighting\n\nSee you there!\n\nJad Abdallah, PhD\n\nDean of Students \\- Byblos Campus\n\nAssociate Professor \\- School of Pharmacy\n\nOffice:  +961 1 786456 ext. 2428\n\nBeirut  |  Byblos  |  New\n York\n\nf\n\nin\n\nx\n\nig",
@@ -206,19 +219,6 @@
         "url": "http://sas.lau.edu.lb/?utm_source=lau_email&utm_medium=email&utm_campaign=EmailSig2018"
       },
       "id": "n25d85c04ec"
-    },
-    {
-      "kind": "notice",
-      "org": "Student Activities",
-      "title": "Upcoming Activities (Byblos)",
-      "body": "Updated upcoming activities.\n\nFor more details about each activity, check out the Events Calendar\nHere .",
-      "expires": "2026-12-07",
-      "mailDate": "2026-11-16",
-      "link": {
-        "label": "More details",
-        "url": "https://eventscal.lau.edu.lb/students/"
-      },
-      "id": "n242abb701f"
     },
     {
       "kind": "notice",

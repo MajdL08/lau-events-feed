@@ -1,7 +1,7 @@
 {
   "source": "lau-mail-robot",
   "version": 1,
-  "generatedAt": "2026-11-24T08:58:47+00:00",
+  "generatedAt": "2026-11-24T09:59:09+00:00",
   "items": [
     {
       "kind": "event",
@@ -53,6 +53,17 @@
     },
     {
       "kind": "event",
+      "org": "School of Engineering",
+      "title": "Ghaddar Machinery - The Energy Transition: From Conventional Power to Smart Energy | Thursday Nov 26 @ 1:00 pm | Chagoury Health Sciences Auditorium",
+      "date": "2026-11-26",
+      "expires": "2026-11-27",
+      "mailDate": "2026-11-24",
+      "time": "1:00 PM–2:00 PM",
+      "body": "Greetings,\n\nThe School of Engineering is pleased to invite you to the following session by Ghaddar Machinery:\n\n📄\nTitle: The Energy Transition: From Conventional Power to Smart Energy\n\n*🎤\n*Speakers:*\n* Karim Ghaddar (Electrical Engineer) and Mohammad Shaath (Electrical Engineer)\n\n📅\nDate: Thursday, November 26, 2026\n\n🕒\nTime: 1:00 p.m. – 2:00 p.m.\n\n📍\nPlace: Chagoury Health Sciences Auditorium, Byblos Campus\n\nThe session will explore the evolution of the energy sector, highlighting the transition from conventional power generation to smart and sustainable energy solutions, with practical insights drawn from Ghaddar\n Machinery's industry experience.\n\nWe look forward to seeing you all there!",
+      "id": "nf1a65c78a8"
+    },
+    {
+      "kind": "event",
       "org": "Athletics Office",
       "title": "Join LAU at the Spinneys Beirut Marathon 2026!",
       "date": "2026-11-29",
@@ -84,6 +95,17 @@
       "time": "09:00 AM–10:00 AM",
       "body": "Greetings,\n\nAs part of the\nSOE seminar series, the School of Engineering is pleased to invite you to the webinar entitled “Demystifying AI: How Large Language Models Work”.\n\nThe seminar details are as follows:\n\n🎤\nSpeaker: Dr. Tarek Sakakini, Lecturer, California State University – Sacramento.\n\n📄\nTitle: Demystifying AI: How Large Language Models Work\n\n📅\nDate: Monday, November 30, 2026\n\n🕒\nTime: 09:00 a.m. – 10:00 a.m.\n\n📍\nPlace: Online via Webex\n\nAbstract:\n\nWhat happens behind the scenes when you ask ChatGPT a question? This interactive, nontechnical talk explains how large language models work, starting with the simple idea of predicting the next\n word. Through familiar examples and audience participation, we explore how models learn from text and how prompting turns text prediction into useful conversations. We then examine why AI used to hallucinate, how it accesses information beyond its training\n data, and how features such as tools, memory, and reasoning fit into the picture. Attendees will leave with a clearer understanding of the technology behind today’s AI assistants, their capabilities, and their limitations. No prior background in AI or programming\n is required.\n\nAbout the Speaker:\n\nDr. Tarek Sakakini teaches computer science and artificial intelligence at California State University, Sacramento, and Folsom Lake College. He earned his Ph.D. in Electrical and Computer Engineering\n from the University of Illinois Urbana-Champaign, specializing in natural language processing and machine learning, and his undergraduate engineering degree from the American University of Beirut. Previously, he worked as an Applied Scientist in Amazon’s Artificial\n General Intelligence organization, developing language model capabilities for Alexa. His experience also includes research at Apple and IBM, with work spanning conversational AI and educational applications. His delivery emphasizes making complex technical\n ideas accessible and helping students build understanding from first principles.",
       "id": "n69119a5d86"
+    },
+    {
+      "kind": "deadline",
+      "org": "School of Engineering",
+      "title": "VIP Pre-Application for Spring 2027",
+      "date": "2026-12-04",
+      "expires": "2026-12-05",
+      "mailDate": "2026-11-24",
+      "body": "Dear Students,\n\nPre-applications for Spring 2027 Vertically Integrated Projects (VIP+) are now available!\n\nDeadline to apply: December 4, 2026.\n\nWho can apply?\n\nAny LAU student from any major or year. Selection is made by the project faculty.\n\nWhat is VIP+?\n\nA unique, long-term, multidisciplinary program where you join faculty-led teams with possible industry co-mentors to work on real projects, build technical and professional skills, and even explore entrepreneurial pathways.\n\nLearn more: The VIP\\+ Model | The LAU School of Engineering.\n\nCurrent Projects:\n\nBrowse all active VIP+ teams here: VIP\\+ Projects | The LAU School of Engineering\n\nHow to apply:\n\nSubmit your application here:\n\nAccepted students will be required to register for the appropriate\nclass during the drop/add period.\n\nCredit Load:\n\n- Sophomores: 1 or 2 Credits per semester (VIP201, VIP202)\n- Juniors: : 1 or 2 Credits per semester (VIP301, VIP302)\n- Seniors: : 1 or 2 Credits per semester (VIP401, VIP402)\n- Graduating students: 1, 2 or 3 Credits per semester (VIP301, VIP302, VIP303, VIP401, VIP402, VIP403)\n- Graduate Students: 1, 2 or 3 Credits per semester (VIP701, VIP702, VIP703)\n\nVIP+ credits can count as free electives (or else depending on the major). You may find the credits equivalency on the following link\nThe VIP\\+ Schedule and Courses | The LAU School of Engineering\nor you may check with your advisor.\n\nEntrepreneurship Certificate\n\nEarn a Certificate of Completion in VIP+ Entrepreneurship by completing\n6 VIP credits + 3 entrepreneurship credits.\n\nDetails: Entrepreneurship Certificate of Completion – LAU VIP Program.\n\nFor questions, contact VIP@lau.edu.lb\n\nJoin VIP+ and become part of a team that builds real impact!",
+      "blurb": "Pre-applications for Spring 2027 Vertically Integrated Projects (VIP+) are now available!",
+      "id": "n325d4f9fc2"
     },
     {
       "kind": "notice",

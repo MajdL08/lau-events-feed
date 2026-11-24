@@ -1,7 +1,7 @@
 {
   "source": "lau-mail-robot",
   "version": 1,
-  "generatedAt": "2026-11-24T07:58:45+00:00",
+  "generatedAt": "2026-11-24T08:58:47+00:00",
   "items": [
     {
       "kind": "event",
@@ -84,6 +84,19 @@
       "time": "09:00 AM–10:00 AM",
       "body": "Greetings,\n\nAs part of the\nSOE seminar series, the School of Engineering is pleased to invite you to the webinar entitled “Demystifying AI: How Large Language Models Work”.\n\nThe seminar details are as follows:\n\n🎤\nSpeaker: Dr. Tarek Sakakini, Lecturer, California State University – Sacramento.\n\n📄\nTitle: Demystifying AI: How Large Language Models Work\n\n📅\nDate: Monday, November 30, 2026\n\n🕒\nTime: 09:00 a.m. – 10:00 a.m.\n\n📍\nPlace: Online via Webex\n\nAbstract:\n\nWhat happens behind the scenes when you ask ChatGPT a question? This interactive, nontechnical talk explains how large language models work, starting with the simple idea of predicting the next\n word. Through familiar examples and audience participation, we explore how models learn from text and how prompting turns text prediction into useful conversations. We then examine why AI used to hallucinate, how it accesses information beyond its training\n data, and how features such as tools, memory, and reasoning fit into the picture. Attendees will leave with a clearer understanding of the technology behind today’s AI assistants, their capabilities, and their limitations. No prior background in AI or programming\n is required.\n\nAbout the Speaker:\n\nDr. Tarek Sakakini teaches computer science and artificial intelligence at California State University, Sacramento, and Folsom Lake College. He earned his Ph.D. in Electrical and Computer Engineering\n from the University of Illinois Urbana-Champaign, specializing in natural language processing and machine learning, and his undergraduate engineering degree from the American University of Beirut. Previously, he worked as an Applied Scientist in Amazon’s Artificial\n General Intelligence organization, developing language model capabilities for Alexa. His experience also includes research at Apple and IBM, with work spanning conversational AI and educational applications. His delivery emphasizes making complex technical\n ideas accessible and helping students build understanding from first principles.",
       "id": "n69119a5d86"
+    },
+    {
+      "kind": "notice",
+      "org": "Dean of Students",
+      "title": "Christmas at LAU Byblos - Starts Today",
+      "body": "Good morning, everyone!\n\nChristmas at LAU Byblos starts today!\n\nSelina Korban Auditorium\n\n- 12:30 p.m. –\n*Be Someone’s Miracle*, featuring Tony Beaino\n- 4:30 p.m. – Emmanuel Choir\n\nMedical Area\n\n- 12:00–6:00 p.m. – Christmas Village\n- 5:30 p.m. – Christmas tree and campus lighting\n\nSee you there!\n\nJad Abdallah, PhD\n\nDean of Students \\- Byblos Campus\n\nAssociate Professor \\- School of Pharmacy\n\nOffice:  +961 1 786456 ext. 2428\n\nBeirut  |  Byblos  |  New\n York\n\nf\n\nin\n\nx\n\nig",
+      "expires": "2026-12-15",
+      "mailDate": "2026-11-24",
+      "link": {
+        "label": "More details",
+        "url": "https://www.lau.edu.lb/about/governance/executive-officers/jad-abdallah.php"
+      },
+      "id": "n5e1a2a2e67"
     },
     {
       "kind": "notice",

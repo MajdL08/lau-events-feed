@@ -1,7 +1,7 @@
 {
   "source": "lau-mail-robot",
   "version": 1,
-  "generatedAt": "2026-11-23T09:58:42+00:00",
+  "generatedAt": "2026-11-24T06:59:02+00:00",
   "items": [
     {
       "kind": "event",
@@ -73,6 +73,17 @@
       "body": "Dear Students,\n\nThe United Nations Academic Impact and Millennium Campus Network (MCN) proudly present the\nMillennium Fellowship.\n\nThe program convenes, challenges and celebrates bold undergraduate students advancing the\nSustainable Development Goals on campus and in communities. As a Millennium Fellow, you will hone your skills, take concrete action and earn recognition. There is no cost for selected students.\n\nUndergraduate students can apply by the next priority deadline:\nNovember 30, 2026. The class of 2027 will run from August to December 2027.",
       "blurb": "The United Nations Academic Impact and Millennium Campus Network (MCN) proudly present the Millennium Fellowship.",
       "id": "na5c1216346"
+    },
+    {
+      "kind": "event",
+      "org": "School of Engineering",
+      "title": "SOE Seminar Series | Demystifying AI: How Large Language Models Work | Monday, November 30, 2026 | Online via Webex",
+      "date": "2026-11-30",
+      "expires": "2026-12-01",
+      "mailDate": "2026-11-24",
+      "time": "09:00 AM–10:00 AM",
+      "body": "Greetings,\n\nAs part of the\nSOE seminar series, the School of Engineering is pleased to invite you to the webinar entitled “Demystifying AI: How Large Language Models Work”.\n\nThe seminar details are as follows:\n\n🎤\nSpeaker: Dr. Tarek Sakakini, Lecturer, California State University – Sacramento.\n\n📄\nTitle: Demystifying AI: How Large Language Models Work\n\n📅\nDate: Monday, November 30, 2026\n\n🕒\nTime: 09:00 a.m. – 10:00 a.m.\n\n📍\nPlace: Online via Webex\n\nAbstract:\n\nWhat happens behind the scenes when you ask ChatGPT a question? This interactive, nontechnical talk explains how large language models work, starting with the simple idea of predicting the next\n word. Through familiar examples and audience participation, we explore how models learn from text and how prompting turns text prediction into useful conversations. We then examine why AI used to hallucinate, how it accesses information beyond its training\n data, and how features such as tools, memory, and reasoning fit into the picture. Attendees will leave with a clearer understanding of the technology behind today’s AI assistants, their capabilities, and their limitations. No prior background in AI or programming\n is required.\n\nAbout the Speaker:\n\nDr. Tarek Sakakini teaches computer science and artificial intelligence at California State University, Sacramento, and Folsom Lake College. He earned his Ph.D. in Electrical and Computer Engineering\n from the University of Illinois Urbana-Champaign, specializing in natural language processing and machine learning, and his undergraduate engineering degree from the American University of Beirut. Previously, he worked as an Applied Scientist in Amazon’s Artificial\n General Intelligence organization, developing language model capabilities for Alexa. His experience also includes research at Apple and IBM, with work spanning conversational AI and educational applications. His delivery emphasizes making complex technical\n ideas accessible and helping students build understanding from first principles.",
+      "id": "n69119a5d86"
     },
     {
       "kind": "notice",

@@ -1,22 +1,8 @@
 {
   "source": "lau-mail-robot",
   "version": 1,
-  "generatedAt": "2026-11-25T17:58:56+00:00",
+  "generatedAt": "2026-11-26T00:58:56+00:00",
   "items": [
-    {
-      "kind": "event",
-      "org": "Athletics Office",
-      "title": "3-on-3 Intramural Basketball Tournament",
-      "date": "2026-11-24",
-      "expires": "2026-11-25",
-      "mailDate": "2026-11-16",
-      "link": {
-        "label": "Register",
-        "url": "https://docs.google.com/forms/d/e/1FAIpQLSepJHHMUjzNzyTl8Ir451IIi7j3pUmOoFwPV0dwRu4sfndaEw/viewform?usp=dialog"
-      },
-      "body": "Dear students and staff,\n\nThe LAU Athletics Department invites you to participate in the 3-on-3 Intramural Basketball Tournament, exclusively for students and staff at\nLAU Byblos Campus, starting Tuesday, November 24, 2026.\n\nEach team must register\nthree players and may include one optional substitute. We’ll share the game schedule and tip-off times once all teams are confirmed.\n\nTo register your team, tap on the link below or scan the QR code:\n\nRegistration\n link\n\n See you on the court!\n\n| Athletics Office, Beirut & Byblos Campus Office: +961 1 786456 ext. 2177 |\n\n| | Beirut \\| Byblos \\| New York |",
-      "id": "n19a6c7f591"
-    },
     {
       "kind": "event",
       "org": "LAU Career Services",

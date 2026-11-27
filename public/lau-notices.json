@@ -1,7 +1,7 @@
 {
   "source": "lau-mail-robot",
   "version": 1,
-  "generatedAt": "2026-11-27T07:59:37+00:00",
+  "generatedAt": "2026-11-27T11:59:04+00:00",
   "items": [
     {
       "kind": "event",
@@ -36,6 +36,23 @@
       "body": "Dear Students,\n\nWhat can you create when creativity meets innovation and teamwork?\n\nJoin us for VIP+ Showcase Day, organized by the School of Engineering, and discover what your fellow students have been working on!\n\nWith 18 VIP+ teams showcasing their projects, this is your opportunity to:\n\n- Explore innovative projects and creative ideas developed by LAU students.\n- Get inspired by what students from different disciplines can achieve through teamwork.\n- Discover VIP+ and learn how you can participate in future projects.\n- Connect with fellow students, exchange ideas, and explore opportunities beyond the classroom.\n\nStudents from all majors and disciplines are welcome.\n\nEvent Details:\n\n- Date: Thursday, November 26, 2026\n- Time: 12:00 PM – 4:00 PM\n- Venue: Frem Multipurpose Room, Byblos Campus\n\nCome curious, leave inspired, and discover what you could be part of next!\n\nWe look forward to seeing you there!\n\nVIP+ Team",
       "blurb": "What can you create when creativity meets innovation and teamwork?",
       "id": "n580fb983b0"
+    },
+    {
+      "kind": "event",
+      "org": "Department of Economics",
+      "title": "Kind reminder- Bridging disciplines by the Mathematics and Economics Club",
+      "date": "2026-11-27",
+      "expires": "2026-11-28",
+      "mailDate": "2026-11-27",
+      "time": "3:30–5:00 PM",
+      "place": "AKSOB 1211, LAU Beirut Campus",
+      "link": {
+        "label": "Register",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSegt8BVqmJkzYd8bgKkOaTlFvdNUD_oW7V6oK5rS-hR03Bi0Q/viewform?usp=header"
+      },
+      "body": "Dear Students,\n\nHow does Mathematics shape the way we understand Economics? And how can a background in mathematics open doors to graduate studies and research in economics?\n\n Join the Mathematics Club and Economics Club at LAU for an engaging interdisciplinary event exploring the connection between these two fields! Whether you’re a\n mathematics enthusiast, an economics student, or simply curious about where these disciplines meet, this is an opportunity to explore new perspectives and possibilities!\n\nThrough insights from distinguished professors and the personal journeys of mathematics graduates who pursued PhDs in Economics, discover how mathematical foundations\n can lead to exciting academic and career opportunities.\n\nDate: Friday, November 27, 2026\n\nTime: 3:30–5:00 p.m.\n\nLocation: AKSOB 1211, LAU Beirut Campus\n\nOnline:\n\nSpeakers:\n\n- Dr. Walid Marrouch, Professor of Economics and Associate Dean of Graduate Studies and Research\n- Dr. Mohamad Karaki, Associate Professor of Economics\n- Dr. Nour Chalhoub, Assistant Professor of Economics\n- Dr. Ghina Abdul Baki, Postdoctoral Researcher at the University of Ottawa\n\nPlease refer the flyer below for further details, and kindly confirm your participation though this\nlink.\n\nWe look forward to seeing you there!\n\nJamal\n\nJamal Ibrahim Haidar\n\nAssistant Professor of Economics, LAU\n\nChairperson, Department of Economics, LAU",
+      "blurb": "How does Mathematics shape the way we understand Economics?",
+      "id": "nd8df4bf5b8"
     },
     {
       "kind": "event",

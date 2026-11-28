@@ -1,7 +1,7 @@
 {
   "source": "lau-mail-robot",
   "version": 1,
-  "generatedAt": "2026-11-28T11:58:47+00:00",
+  "generatedAt": "2026-11-28T15:11:36+00:00",
   "items": [
     {
       "kind": "event",
@@ -102,6 +102,19 @@
       "body": "Dear Students,\n\nPre-applications for Spring 2027 Vertically Integrated Projects (VIP+) are now available!\n\nDeadline to apply: December 4, 2026.\n\nWho can apply?\n\nAny LAU student from any major or year. Selection is made by the project faculty.\n\nWhat is VIP+?\n\nA unique, long-term, multidisciplinary program where you join faculty-led teams with possible industry co-mentors to work on real projects, build technical and professional skills, and even explore entrepreneurial pathways.\n\nLearn more: The VIP\\+ Model | The LAU School of Engineering.\n\nCurrent Projects:\n\nBrowse all active VIP+ teams here: VIP\\+ Projects | The LAU School of Engineering\n\nHow to apply:\n\nSubmit your application here:\n\nAccepted students will be required to register for the appropriate\nclass during the drop/add period.\n\nCredit Load:\n\n- Sophomores: 1 or 2 Credits per semester (VIP201, VIP202)\n- Juniors: : 1 or 2 Credits per semester (VIP301, VIP302)\n- Seniors: : 1 or 2 Credits per semester (VIP401, VIP402)\n- Graduating students: 1, 2 or 3 Credits per semester (VIP301, VIP302, VIP303, VIP401, VIP402, VIP403)\n- Graduate Students: 1, 2 or 3 Credits per semester (VIP701, VIP702, VIP703)\n\nVIP+ credits can count as free electives (or else depending on the major). You may find the credits equivalency on the following link\nThe VIP\\+ Schedule and Courses | The LAU School of Engineering\nor you may check with your advisor.\n\nEntrepreneurship Certificate\n\nEarn a Certificate of Completion in VIP+ Entrepreneurship by completing\n6 VIP credits + 3 entrepreneurship credits.\n\nDetails: Entrepreneurship Certificate of Completion – LAU VIP Program.\n\nFor questions, contact VIP@lau.edu.lb\n\nJoin VIP+ and become part of a team that builds real impact!",
       "blurb": "Pre-applications for Spring 2027 Vertically Integrated Projects (VIP+) are now available!",
       "id": "n325d4f9fc2"
+    },
+    {
+      "kind": "notice",
+      "org": "School of Arts & Sciences",
+      "title": "Chill, Chat & Chant",
+      "body": "Office of the Dean\n\nSchool of Arts & Sciences\n\nOffice:  +961 1 786456 ext. 1105/2333\n\nBeirut  |  Byblos  |  New\n York\n\nf\n\nin\n\nx\n\nig",
+      "expires": "2026-12-18",
+      "mailDate": "2026-11-27",
+      "link": {
+        "label": "More details",
+        "url": "http://sas.lau.edu.lb/?utm_source=lau_email&utm_medium=email&utm_campaign=EmailSig2018"
+      },
+      "id": "nd1eb1f3a1f"
     },
     {
       "kind": "notice",

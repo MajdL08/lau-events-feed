@@ -2,8 +2,8 @@
   "source": "hospitality-byblos",
   "kind": "cafeteria-menu",
   "title": "57 Plat Du Jour — LAU Byblos Cafeteria",
-  "fetchedAt": "2026-11-23T15:05:31+00:00",
-  "weekOf": "2026-11-23",
+  "fetchedAt": "2026-11-28T15:10:36+00:00",
+  "weekOf": "2026-11-30",
   "currency": "LBP",
   "hours": {
     "main": "Tue–Fri 7:30 AM–7:00 PM",
@@ -12,63 +12,74 @@
   },
   "days": [
     {
-      "date": "2026-11-24",
+      "date": "2026-11-30",
+      "weekday": "Monday",
+      "dishes": [
+        {
+          "name": "Chicken Mouloukhiyye",
+          "price": 680000
+        },
+        {
+          "name": "Beef Schnitzel French Fries & Coleslaw",
+          "price": 770000
+        }
+      ]
+    },
+    {
+      "date": "2026-12-01",
       "weekday": "Tuesday",
       "dishes": [
         {
-          "name": "Chicken Fajitas",
-          "price": 680000
+          "name": "Kebbeh Labnieh",
+          "price": 770000
         },
         {
-          "name": "Lasagna",
+          "name": "Thai Chicken Noodles",
           "price": 680000
         }
       ]
     },
     {
-      "date": "2026-11-25",
+      "date": "2026-12-02",
       "weekday": "Wednesday",
       "dishes": [
         {
-          "name": "Loubieh W Riz",
+          "name": "Beef Stroganoff",
           "price": 770000
         },
         {
-          "name": "Chicken Creamy Pesto Pasta",
+          "name": "Tortellini Chicken Alfredo",
           "price": 680000
         }
       ]
     },
     {
-      "date": "2026-11-26",
+      "date": "2026-12-03",
       "weekday": "Thursday",
       "dishes": [
         {
-          "name": "Chicken With Mushroom Sauce, Potatoes & Veggies",
-          "price": 680000
+          "name": "Beef Fajitas",
+          "price": 770000
         },
         {
-          "name": "Kafta, Potatoes & Rice",
-          "price": 770000
+          "name": "Chicken Gypsy Sauce Potatoes & Veggies",
+          "price": 680000
         }
       ]
     },
     {
-      "date": "2026-11-27",
+      "date": "2026-12-04",
       "weekday": "Friday",
       "dishes": [
         {
-          "name": "Beef Shawarma",
-          "price": 770000
+          "name": "Siyadiyeh",
+          "price": 680000
         },
         {
-          "name": "Fish Curry With Rice",
+          "name": "Chicken Freekeh",
           "price": 680000
         }
       ]
     }
-  ],
-  "holidays": [
-    "2026-11-23"
   ]
 }
